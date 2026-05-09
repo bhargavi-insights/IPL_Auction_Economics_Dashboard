@@ -1,0 +1,970 @@
+player_name,Role,sold_price,team,year,Player Origin,runs,balls,matches,strike_rate,wickets,run_conceded,balls_bowled,overs,economy,value_score,normalized_score,fair_price,difference,status
+Aaron Finch,Batsman,40000000,Sunrisers Hyderabad,2014,Overseas,309,268,13,115.2985075,0,0,0,0,0,154.9747761,49.71056156449123,1047609044.2603507,-1007609044,Undervalued
+Aaron Finch,Batsman,32000000,Mumbai Indians,2015,Overseas,23,33,3,69.6969697,0,0,0,0,0,21.45454546,6.881878001996392,145029897.25904858,-113029897.3,Undervalued
+Aaron Finch,Batsman,10000000,Gujarat Lions,2016,Overseas,393,311,12,126.3665595,0,0,0,0,0,192.3849839,61.71046557778899,1300497114.299104,-1290497114,Undervalued
+Aaron Finch,Batsman,62000000,Kings XI Punjab,2018,Overseas,134,102,9,131.372549,0,0,0,0,0,80.65588235,25.871624436895996,545223125.5653236,-483223125.6,Undervalued
+Aaron Finch,Batsman,44000000,Royal Challengers Bangalore,2020,Overseas,268,254,12,105.511811,0,0,0,0,0,135.5067717,43.465897373386376,916007901.9863278,-872007902,Undervalued
+Abdul Samad,All-Rounder,2000000,Sunrisers Hyderabad,2020,Indian,113,68,7,166.1764706,1,96,43,7.166666667,13.39534884,76.15647059,24.428368373605615,514807695.5741523,-512807695.6,Undervalued
+Abhijeet Tomar,Batsman,4000000,Kolkata Knight Riders,2022,Indian,4,8,1,50,0,0,0,0,0,9.59,3.076141145827197,64827135.00649533,-60827135.01,Undervalued
+Abhimanyu Mithun,Bowler,3000000,Mumbai Indians,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Abhimanyu Mithun,Bowler,3000000,Sunrisers Hyderabad,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Abhinav Sadarangani,Batsman,26000000,Gujarat Titans,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,26000000,Overpaid
+Abhishek Nayar,All-Rounder,50625000,Pune Warriors India,2013,Indian,66,74,9,89.18918919,2,59,50,8.333333333,7.08,45.18837838,14.494872788666518,305467477.1499075,-254842477.1,Undervalued
+Abhishek Nayar,All-Rounder,10000000,Rajasthan Royals,2014,Indian,43,50,4,86,0,0,0,0,0,32.87,10.543561987835242,222196864.19848815,-212196864.2,Undervalued
+Abhishek Sharma,All-Rounder,5500000,Delhi Daredevils,2018,Indian,63,35,3,180,0,0,0,0,0,55.2,17.706255604761346,373144718.7026634,-367644718.7,Undervalued
+Abhishek Sharma,All-Rounder,65000000,Sunrisers Hyderabad,2022,Indian,426,329,14,129.4832827,0,39,24,4,9.75,207.7824924,66.64945508545857,1404582240.5761237,-1339582241,Undervalued
+Abu Nechim Ahmed,Bowler,3000000,Royal Challengers Bangalore,2014,Indian,4,1,1,400,3,120,89,14.83333333,8.08988764,62.239999999999995,19.964444725368587,420734190.0734378,-417734190.1,Undervalued
+Adam Milne,Bowler,7000000,Royal Challengers Bangalore,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7000000,Overpaid
+Adam Milne,Bowler,32000000,Mumbai Indians,2021,Overseas,16,19,3,84.21052632,4,135,87,14.5,9.310344828,20.82157895,6.678844183840685,140751127.16479632,-108751127.2,Undervalued
+Adam Milne,Bowler,19000000,Chennai Super Kings,2022,Overseas,0,0,0,0,0,19,15,2.5,7.6,0,0,0,19000000,Overpaid
+Adam Zampa,Bowler,3000000,Rising Pune Supergiant,2016,Overseas,0,1,1,0,12,117,103,17.16666667,6.815533981,0.9700000000000001,0.31114253508366857,6557072.049666368,-3557072.05,Undervalued
+Aditya Garhwal,All-Rounder,2500000,Kolkata Knight Riders,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2500000,Overpaid
+Aditya Tare,Wicket Keeper,16000000,Mumbai Indians,2014,Indian,126,102,11,123.5294118,0,0,0,0,0,76.77941177,24.628186412732635,519018695.7803009,-503018695.8,Undervalued
+Aditya Tare,Wicket Keeper,12000000,Sunrisers Hyderabad,2016,Indian,8,15,2,53.33333333,0,0,0,0,0,12.18,3.906923790890218,82335193.36253384,-70335193.36,Undervalued
+Aditya Tare,Wicket Keeper,2500000,Delhi Daredevils,2017,Indian,18,25,3,72,0,0,0,0,0,19.65,6.303042076694934,132831408.01643723,-130331408,Undervalued
+Aditya Tare,Wicket Keeper,2000000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Agnivesh Ayachi,All-Rounder,2000000,Kings XI Punjab,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Aiden Blizzard,Batsman,3000000,Mumbai Indians,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Aiden Markram,Batsman,26000000,Sunrisers Hyderabad,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,26000000,Overpaid
+Ajantha Mendis,Bowler,54375000,Pune Warriors India,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,54375000,Overpaid
+Ajinkya Rahane,Batsman,40000000,Rajasthan Royals,2018,Indian,370,321,14,115.2647975,0,0,0,0,0,181.5697196,58.24130191603446,1227387354.2462335,-1187387354,Undervalued
+Ajinkya Rahane,Batsman,10000000,Kolkata Knight Riders,2022,Indian,133,131,7,101.5267176,0,0,0,0,0,75.00900764,24.06030184661841,507050997.3911907,-497050997.4,Undervalued
+Akash Deep,Bowler,2000000,Royal Challengers Bangalore,2022,Indian,0,2,1,0,6,206,119,19.83333333,10.38655462,0.67,0.21491288505779169,4529111.621934501,-2529111.622,Undervalued
+Akash Singh,Bowler,2000000,Rajasthan Royals,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Akash Singh,Bowler,2000000,Rajasthan Royals,2021,Indian,0,0,0,0,0,39,24,4,9.75,0,0,0,2000000,Overpaid
+Akhil Arvind Herwadkar,All-Rounder,1000000,Delhi Daredevils,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Akila Dananjaya,All-Rounder,1500000,Chennai Super Kings,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,1500000,Overpaid
+Akila Dananjaya,Bowler,5000000,Mumbai Indians,2018,Overseas,4,5,1,80,0,47,25,4.166666667,11.28,14.09,4.519585896,95246541.42247331,-90246541.42,Undervalued
+Axar Rajesh Patel,All-Rounder,7500000,Kings XI Punjab,2014,Indian,62,61,7,101.6393443,19,424,403,67.16666667,6.312655087,45.445901645000006,14.57747736802924,307208300.46218175,-299708300.5,Undervalued
+Akshay Karnewar,All-Rounder,1000000,Royal Challengers Bangalore,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Akshay Wakhare,Bowler,1000000,Mumbai Indians,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Akshdeep Nath,All-Rounder,1000000,Gujarat Lions,2016,Indian,20,27,3,74.07407407,0,0,0,0,0,20.82111111,6.6786941177110375,140747964.64500764,-139747964.6,Undervalued
+Akshdeep Nath,All-Rounder,1000000,Gujarat Lions,2017,Indian,0,1,1,0,0,0,0,0,0,0.37,0.11868323503191482,2501151.1942026354,-1501151.194,Undervalued
+Akshdeep Nath,All-Rounder,10000000,Kings XI Punjab,2018,Indian,9,13,1,69.23076923,0,0,0,0,0,14.624615384499998,4.691072067378299,98860470.90188217,-88860470.9,Undervalued
+Akshdeep Nath,All-Rounder,36000000,Royal Challengers Bangalore,2019,Indian,61,58,5,105.1724138,0,0,0,0,0,43.85586207,14.067447528597427,296459842.6734231,-260459842.7,Undervalued
+Albie Morkel,All-Rounder,24000000,Royal Challengers Bangalore,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,24000000,Overpaid
+Albie Morkel,All-Rounder,3000000,Delhi Daredevils,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Alex Carey,Wicket Keeper,24000000,Delhi Capitals,2020,Overseas,32,29,3,110.3448276,0,0,0,0,0,31.421724140000002,10.07900505733949,212406710.4234237,-188406710.4,Undervalued
+Alex Hales,Batsman,15000000,Kolkata Knight Riders,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Alzarri Joseph,Bowler,24000000,Gujarat Titans,2022,Overseas,5,7,3,71.42857143,8,269,185,30.83333333,8.724324324,14.374285714500001,4.610774945594322,97168275.35305826,-73168275.35,Undervalued
+Aman Khan,All-Rounder,2000000,Kolkata Knight Riders,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Ambati Rayudu,Wicket Keeper,22000000,Chennai Super Kings,2018,Indian,602,410,16,146.8292683,0,0,0,0,0,286.80439024500004,91.99695366387121,1938759846.3887575,-1916759846,Undervalued
+Ambati Rayudu,Wicket Keeper,67500000,Chennai Super Kings,2022,Indian,274,230,11,119.1304348,0,0,0,0,0,139.75956521999998,44.83004682963104,944756225.5439028,-877256225.5,Undervalued
+Amit Mishra,Bowler,1000000,Rajasthan Royals,2014,Indian,4,7,2,57.14285714,8,342,230,38.33333333,8.92173913,11.43142857,3.6668079022771325,77274949.25,-76274949.25,Undervalued
+Amit Mishra,Bowler,47500000,Sunrisers Hyderabad,2014,Indian,4,7,2,57.14285714,8,342,230,38.33333333,8.92173913,11.43142857,3.6668079022771325,77274949.25,-29774949.25,Undervalued
+Amit Mishra,Bowler,35000000,Delhi Daredevils,2015,Indian,8,13,4,61.53846154,9,312,249,41.5,7.518072289,14.60076923,4.683423044025738,98699274.04971011,-63699274.05,Undervalued
+Amit Mishra,Bowler,1000000,Gujarat Lions,2016,Indian,4,14,2,28.57142857,14,350,284,47.33333333,7.394366197,7.445714285499999,2.388328266287789,50332046.423972815,-49332046.42,Undervalued
+Amit Mishra,Bowler,40000000,Delhi Daredevils,2018,Indian,1,2,1,50,13,265,226,37.66666667,7.03539823,8.95,2.870851225771993,60500819.42733401,-20500819.43,Undervalued
+Amit Paunikar,Wicket Keeper,2000000,Sunrisers Hyderabad,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Andre Russell,All-Rounder,6000000,Kolkata Knight Riders,2014,Overseas,2,8,2,25,2,54,31,5.166666667,10.4516129,5.45,1.7481719754700964,36841281.103795566,-30841281.1,Undervalued
+Andrew Tye,Bowler,2000000,Chennai Super Kings,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Andrew Tye,All-Rounder,5000000,Gujarat Lions,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Andrew Tye,Bowler,72000000,Kings XI Punjab,2018,Overseas,32,40,8,80,28,459,353,58.83333333,7.801699717,30.119999999999997,9.661456862598037,203607226.94427934,-131607226.9,Undervalued
+Andrew Tye,Bowler,10000000,Rajasthan Royals,2020,Overseas,6,7,1,85.71428571,2,54,27,4.5,12,15.907142856499998,5.102462633,107530187.43753211,-97530187.44,Undervalued
+Aneeshwar Gautam,All-Rounder,2000000,Royal Challengers Bangalore,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Angelo Mathews,All-Rounder,75000000,Delhi Daredevils,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,75000000,Overpaid
+Angelo Mathews,All-Rounder,20000000,Delhi Daredevils,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Aniket Choudhary,Bowler,20000000,Royal Challengers Bangalore,2017,Indian,25,20,3,125,5,144,108,18,8,30.86,9.898823332661868,208609529.33268467,-188609529.3,Undervalued
+Aniket Choudhary,Bowler,3000000,Royal Challengers Bangalore,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Anirudha Ashok Joshi,All-Rounder,2000000,Royal Challengers Bangalore,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Anirudha Ashok Joshi,All-Rounder,2000000,Rajasthan Royals,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Ankeet Bawane,Batsman,1000000,Delhi Daredevils,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Ankit Nagendra Sharma,Bowler,1000000,Rajasthan Royals,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Ankit Sharma,All-Rounder,1000000,Rising Pune Supergiant,2016,Indian,3,3,1,100,1,84,70,11.66666667,7.2,16.71,5.359991506441341,112957395.82466495,-111957395.8,Undervalued
+Ankit Sharma,All-Rounder,2000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,11,6,1,11,0,0,0,2000000,Overpaid
+Ankit Singh Rajpoot,Bowler,15000000,Kolkata Knight Riders,2016,Indian,0,0,0,0,3,101,72,12,8.416666667,0.15000000000000002,0.048114825,1013980.2138659332,13986019.786134066,Overpaid
+Ankit Singh Rajpoot,Bowler,30000000,Kings XI Punjab,2018,Indian,11,18,3,61.11111111,11,230,166,27.66666667,8.313253012,15.55666667,4.990041962955065,105161014.62359135,-75161014.62,Undervalued
+Ankit Singh Rajpoot,Bowler,5000000,Lucknow Super Giants,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Ankush Bains,Wicket Keeper,1000000,Rajasthan Royals,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Ankush Bains,Wicket Keeper,1000000,Chennai Super Kings,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Ankush Bains,Wicket Keeper,1000000,Rising Pune Supergiant,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Ankush Bains,Wicket Keeper,2000000,Delhi Capitals,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Anmolpreet Singh,Batsman,8000000,Mumbai Indians,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,8000000,Overpaid
+Anmolpreet Singh,Batsman,2000000,Mumbai Indians,2022,Indian,13,13,2,100,0,0,0,0,0,21.33,6.841928116839845,144187986.41173568,-142187986.4,Undervalued
+Anrich Nortje,Bowler,2000000,Kolkata Knight Riders,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Ansh Patel,All-Rounder,2000000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Anuj Rawat,Wicket Keeper,8000000,Rajasthan Royals,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,8000000,Overpaid
+Anuj Rawat,Wicket Keeper,34000000,Royal Challengers Bangalore,2022,Indian,129,123,8,104.8780488,0,0,0,0,0,74.16170731999999,23.788517135750368,501323358.9933089,-467323359,Undervalued
+Anukul Roy,All-Rounder,2000000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Anukul Roy,All-Rounder,2000000,Kolkata Knight Riders,2022,Indian,0,2,1,0,1,55,42,7,7.857142857,0.42,0.13472151003622762,2839144.598824613,-839144.5988,Undervalued
+Anunay Singh,All-Rounder,2000000,Rajasthan Royals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Anureet Singh,Bowler,2000000,Kings XI Punjab,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Anureet Singh,Bowler,3000000,Rajasthan Royals,2018,Indian,3,4,1,75,2,42,24,4,10.5,13.009999999999998,4.173159156122193,87945883.88263857,-84945883.88,Undervalued
+Apoorv Vijay Wankhade,Batsman,1000000,Mumbai Indians,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Apoorv Vijay Wankhade,Batsman,2000000,Kolkata Knight Riders,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Arjun Tendulkar,All-Rounder,2000000,Mumbai Indians,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Arjun Tendulkar,All-Rounder,3000000,Mumbai Indians,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Armaan Jaffer,Batsman,1000000,Kings XI Punjab,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Arshdeep Singh,Bowler,2000000,Kings XI Punjab,2019,Indian,0,0,0,0,3,117,65,10.83333333,10.8,0.15000000000000002,0.048114825,1013980.2138659332,986019.7861340668,Overpaid
+Aryaman Vikram Birla,All-Rounder,3000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Aryan Juyal,Wicket Keeper,2000000,Mumbai Indians,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Asela Gunarathna,Batsman,3000000,Mumbai Indians,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Ashish Nehra,Bowler,20000000,Chennai Super Kings,2014,Indian,0,0,0,0,8,143,93,15.5,9.225806452,0.4,0.1283062000345025,2703947.2369758217,17296052.763024177,Overpaid
+Ashish Nehra,Bowler,55000000,Sunrisers Hyderabad,2016,Indian,1,1,1,100,11,200,161,26.83333333,7.453416149,16.35,5.244515926,110523843.31138672,-55523843.31,Undervalued
+Ashish Reddy,Bowler,2000000,Sunrisers Hyderabad,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Ashok Dinda,Bowler,15000000,Royal Challengers Bangalore,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Ashok Dinda,Bowler,5000000,Rising Pune Supergiant,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Ashok Sharma,Bowler,5500000,Kolkata Knight Riders,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5500000,Overpaid
+Ashton Turner,All-Rounder,5000000,Rajasthan Royals,2019,Indian,3,11,4,27.27272727,0,0,0,0,0,6.860909091,2.200742935460574,46378840.44599943,-41378840.45,Undervalued
+Ashwin Hebbar,Batsman,2000000,Delhi Capitals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Asif K M,Bowler,4000000,Chennai Super Kings,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,4000000,Overpaid
+Atharva Taide,All-Rounder,2000000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Avesh Khan,Bowler,7000000,Delhi Daredevils,2018,Indian,0,0,0,0,4,205,117,19.5,10.51282051,0.2,0.0641531,1351973.6184879108,5648026.381512089,Overpaid
+Avesh Khan,Bowler,100000000,Lucknow Super Giants,2022,Indian,22,13,4,169.2307692,19,423,300,50,8.46,37.27461538,11.956410642888557,251971483.16521865,-151971483.2,Undervalued
+Axar Rajesh Patel,All-Rounder,50000000,Delhi Capitals,2019,Indian,110,90,12,122.2222222,12,368,307,51.16666667,7.19218241,70.67333332999999,22.669567108360127,477742410.9638118,-427742411,Undervalued
+Ayush Badoni,All-Rounder,2000000,Lucknow Super Giants,2022,Indian,161,139,11,115.8273381,2,12,12,2,6,90.77410072,29.11719981072716,613620947.0432229,-611620947,Undervalued
+B. Sai Sudharsan,All-Rounder,2000000,Gujarat Titans,2022,Indian,145,118,5,122.8813559,0,0,0,0,0,82.63220339,26.50556004201876,558582795.0702373,-556582795.1,Undervalued
+Baba Aparajith,Batsman,1000000,Chennai Super Kings,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Baba Aparajith,All-Rounder,1000000,Rising Pune Supergiant,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Baba Indrajith,Wicket Keeper,2000000,Kolkata Knight Riders,2022,Indian,21,31,3,67.74193548,0,0,0,0,0,20.30129032,6.511953542532603,137234044.6830397,-135234044.7,Undervalued
+Baltej Dhanda,Bowler,2000000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Bandaru Ayyappa,Bowler,2000000,Delhi Capitals,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Barinder Singh Saran,Bowler,1000000,Rajasthan Royals,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Barinder Singh Sran,Bowler,12000000,Sunrisers Hyderabad,2016,Indian,4,4,3,100,14,420,312,52,8.076923077,18.529999999999998,5.943784716598327,125260355.75290492,-113260355.8,Undervalued
+Barinder Singh Sran,Bowler,22000000,Kings XI Punjab,2018,Indian,3,7,3,42.85714286,6,231,146,24.33333333,9.493150685,9.128571429,2.928130779496296,61707938.73245245,-39707938.73,Undervalued
+Barinder Singh Sran,Bowler,34000000,Mumbai Indians,2019,Indian,3,3,1,100,0,51,25,4.166666667,12.24,16.66,5.343953231437029,112619402.42004296,-78619402.42,Undervalued
+Basil Thampi,Bowler,8500000,Gujarat Lions,2017,Indian,28,30,5,93.33333333,15,428,278,46.33333333,9.237410072,28.64,9.186723922309994,193602622.16408888,-185102622.2,Undervalued
+Basil Thampi,Bowler,9500000,Sunrisers Hyderabad,2018,Indian,3,6,1,50,5,115,62,10.33333333,11.12903226,9.409999999999998,3.0184033558116705,63610358.74985619,-54110358.75,Undervalued
+Basil Thampi,Bowler,3000000,Mumbai Indians,2022,Indian,0,0,0,0,5,158,102,17,9.294117647,0.25,0.080191375,1689967.0231098887,1310032.9768901113,Overpaid
+Ben Cutting,Bowler,8000000,Rajasthan Royals,2014,Overseas,8,6,1,133.3333333,2,31,24,4,7.75,23.909999995000003,7.669503105,161628446.05643043,-153628446.1,Undervalued
+Ben Cutting,All-Rounder,5000000,Sunrisers Hyderabad,2016,Overseas,65,37,4,175.6756757,5,80,68,11.33333333,7.058823529,56.03135135499999,17.97292444,378764544.2009342,-373764544.2,Undervalued
+Ben Cutting,All-Rounder,22000000,Mumbai Indians,2018,Overseas,96,59,6,162.7118644,2,169,105,17.5,9.657142857,68.00677965999999,21.814228686895735,459716859.8932012,-437716859.9,Undervalued
+Ben Cutting,All-Rounder,7500000,Kolkata Knight Riders,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Ben Dunk,Wicket Keeper,2000000,Mumbai Indians,2014,Overseas,40,36,3,111.1111111,0,0,0,0,0,34.976666664999996,11.219307974149013,236437652.9686277,-234437653,Undervalued
+Ben Dwarshuis,Bowler,14000000,Kings XI Punjab,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,14000000,Overpaid
+Ben Hilfenhaus,Bowler,10000000,Chennai Super Kings,2014,Overseas,0,0,0,0,9,255,175,29.16666667,8.742857143,0.45,0.1443444750388153,3041940.6415977995,6958059.358,Overpaid
+Ben Laughlin,Bowler,1500000,Chennai Super Kings,2013,Overseas,4,9,2,44.44444444,1,72,45,7.5,9.6,9.176666666000001,2.943558072244368,62033056.19044708,-60533056.19,Undervalued
+Ben Laughlin,Bowler,3000000,Sunrisers Hyderabad,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Ben Laughlin,Bowler,5000000,Rajasthan Royals,2018,Overseas,1,4,2,25,9,212,134,22.33333333,9.492537313,5.37,1.7225107354631959,36300491.656400405,-31300491.66,Undervalued
+Benjamin Stokes,All-Rounder,145000000,Rising Pune Supergiant,2017,Overseas,316,227,11,139.2070485,14,327,274,45.66666667,7.160583942,161.53105727499997,51.81359036627706,1091928640.0112984,-946928640,Undervalued
+Benjamin Stokes,All-Rounder,125000000,Rajasthan Royals,2018,Overseas,196,166,12,118.0722892,9,307,232,38.66666667,7.939655172,106.8808434,34.28368717642653,722500402.8574915,-597500402.9,Undervalued
+Benny Howell,All-Rounder,4000000,Punjab Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,4000000,Overpaid
+Beuran Hendricks,Bowler,18000000,Kings XI Punjab,2014,Overseas,0,1,1,0,4,127,75,12.5,10.16,0.5700000000000001,0.18283633504916605,3853124.812690546,14146875.187309455,Overpaid
+Bhanuka Rajapaksa,Batsman,5000000,Punjab Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Bhuvneshwar Kumar,Bowler,42500000,Sunrisers Hyderabad,2014,Overseas,1,4,2,25,21,362,327,54.5,6.642201835,5.97,1.9149700355149495,40356412.51186413,2143587.488135867,Overpaid
+Bhuvneshwar Kumar,Bowler,42000000,Sunrisers Hyderabad,2022,Indian,24,28,6,85.71428571,13,394,330,55,7.163636364,26.047142856499995,8.355024804183378,176075249.89486918,-134075249.9,Undervalued
+Billy Stanlake,Bowler,3000000,Royal Challengers Bangalore,2017,Overseas,0,0,0,0,2,70,50,8.333333333,8.4,0.1,0.03207655,675986.8092439554,2324013.1907560444,Overpaid
+Billy Stanlake,Batsman,5000000,Sunrisers Hyderabad,2018,Overseas,5,2,1,250,5,130,100,16.66666667,7.8,40.269999999999996,12.917226688473537,272219888.0825408,-267219888.1,Undervalued
+Bipul Sharma,All-Rounder,2000000,Sunrisers Hyderabad,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Brad Hodge,Batsman,24000000,Rajasthan Royals,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,24000000,Overpaid
+Brad Hogg,Bowler,5000000,Kolkata Knight Riders,2015,Overseas,7,6,2,116.6666667,10,148,127,21.16666667,6.992125984,21.750000004999993,6.9766496284798984,147027131.0443596,-142027131,Undervalued
+Brendan Taylor,Wicket Keeper,3000000,Sunrisers Hyderabad,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Brendon McCullum,Wicket Keeper,32500000,Chennai Super Kings,2014,Overseas,405,341,14,118.7683284,0,0,0,0,0,197.1452493,63.23739446851354,1332675880.0487168,-1300175880,Undervalued
+Brendon McCullum,Batsman,36000000,Royal Challengers Bangalore,2018,Overseas,127,91,6,139.5604396,0,0,0,0,0,77.76406594,24.9440295,525674828.08617145,-489674828.1,Undervalued
+C Hari Nishaanth,Batsman,2000000,Chennai Super Kings,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+C.Hari Nishaanth,Batsman,2000000,Chennai Super Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+C.M. Gautam,Wicket Keeper,2000000,Mumbai Indians,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+C.M. Gautam,Wicket Keeper,2000000,Delhi Daredevils,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Cameron Delport,All-Rounder,3000000,Kolkata Knight Riders,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Carlos Brathwaite,All-Rounder,42000000,Delhi Daredevils,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,42000000,Overpaid
+Carlos Brathwaite,All-Rounder,20000000,Sunrisers Hyderabad,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Carlos Brathwaite,All-Rounder,50000000,Kolkata Knight Riders,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,50000000,Overpaid
+Chaitanya Bishnoi,All-Rounder,2000000,Chennai Super Kings,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Chama Milind,Bowler,1000000,Sunrisers Hyderabad,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Chama Milind,Bowler,1000000,Delhi Daredevils,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Chama Milind,Bowler,2500000,Royal Challengers Bangalore,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2500000,Overpaid
+Chamika Karunaratne,All-Rounder,5000000,Kolkata Knight Riders,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Chetan Sakariya,Bowler,12000000,Rajasthan Royals,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,12000000,Overpaid
+Chetan Sakariya,Bowler,42000000,Delhi Capitals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,42000000,Overpaid
+Cheteshwar Pujara,Batsman,19000000,Kings XI Punjab,2014,Indian,125,129,6,96.89922481,0,0,0,0,0,70.50488372,22.61553428545029,476603713.8301287,-457603713.8,Undervalued
+Cheteshwar Pujara,Batsman,5000000,Chennai Super Kings,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Chirag Suri,Batsman,1000000,Gujarat Lions,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Chris Green,All-Rounder,2000000,Kolkata Knight Riders,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Chris Jordan,All-Rounder,5000000,Sunrisers Hyderabad,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Chris Jordan,All-Rounder,10000000,Sunrisers Hyderabad,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Chris Jordan,All-Rounder,30000000,Kings XI Punjab,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,30000000,Overpaid
+Chris Jordan,All-Rounder,36000000,Chennai Super Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,36000000,Overpaid
+Chris Lynn,Batsman,13000000,Kolkata Knight Riders,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,13000000,Overpaid
+Chris Lynn,Batsman,96000000,Kolkata Knight Riders,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,96000000,Overpaid
+Chris Lynn,Batsman,20000000,Mumbai Indians,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Chris Woakes,All-Rounder,42000000,Kolkata Knight Riders,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,42000000,Overpaid
+Chris Woakes,All-Rounder,74000000,Royal Challengers Bangalore,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,74000000,Overpaid
+Chris Woakes,All-Rounder,15000000,Delhi Capitals,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Christopher Barnwell,All-Rounder,3750000,Royal Challengers Bangalore,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3750000,Overpaid
+Christopher Gayle,Batsman,20000000,Kings XI Punjab,2018,Overseas,368,261,11,140.9961686,0,0,0,0,0,183.4594253,58.84745429868402,1240161515.2751694,-1220161515,Undervalued
+Christopher Morris,All-Rounder,46875000,Chennai Super Kings,2013,Overseas,14,17,6,82.35294118,17,410,309,51.5,7.961165049,21.44294118,6.878155749960581,144951453.87046057,-98076453.87,Undervalued
+Christopher Morris,All-Rounder,14000000,Rajasthan Royals,2015,Overseas,76,47,7,161.7021277,15,336,270,45,7.466666667,60.275319155000005,19.334242891612273,407453206.71749514,-393453206.7,Undervalued
+Christopher Morris,All-Rounder,70000000,Delhi Daredevils,2016,Overseas,195,114,7,171.0526316,16,320,274,45.66666667,7.00729927,112.8978947,36.21374966496161,763174876.3565253,-693174876.4,Undervalued
+Christopher Morris,All-Rounder,100000000,Royal Challengers Bangalore,2020,Overseas,34,21,5,161.9047619,12,212,204,34,6.235294118,41.355714285000005,13.265486374052356,279559173.4352182,-179559173.4,Undervalued
+Christopher Morris,All-Rounder,162500000,Rajasthan Royals,2021,Overseas,67,53,7,126.4150943,17,396,262,43.66666667,9.06870229,51.21226414499999,16.42712751902037,346188150.3353716,-183688150.3,Undervalued
+Clinton McKay,Bowler,7500000,Sunrisers Hyderabad,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Colin De Grandhomme,All-Rounder,22000000,Royal Challengers Bangalore,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,22000000,Overpaid
+Colin Ingram,Batsman,64000000,Delhi Capitals,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,64000000,Overpaid
+Colin Munro,All-Rounder,3000000,Kolkata Knight Riders,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Colin Munro,All-Rounder,19000000,Delhi Daredevils,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,19000000,Overpaid
+Corey Anderson,All-Rounder,45000000,Mumbai Indians,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,45000000,Overpaid
+Corey Anderson,All-Rounder,10000000,Delhi Daredevils,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Dale Steyn,Bowler,23000000,Gujarat Lions,2016,Overseas,1,2,1,50,0,17,13,2.166666667,7.846153846,8.299999999999999,2.662353650715926,56106905.16724829,-33106905.17,Undervalued
+Dale Steyn,Bowler,20000000,Royal Challengers Bangalore,2020,Overseas,1,2,1,50,1,134,75,12.5,10.72,8.35,2.6783919257202395,56444898.571870275,-36444898.57,Undervalued
+Daniel Christian,All-Rounder,48000000,Royal Challengers Bangalore,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,48000000,Overpaid
+Daniel Christian,All-Rounder,7500000,Royal Challengers Bangalore,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Daniel Christian,All-Rounder,10000000,Rising Pune Supergiant,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Daniel Christian,All-Rounder,15000000,Delhi Daredevils,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Daniel Sams,All-Rounder,26000000,Mumbai Indians,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,26000000,Overpaid
+Darcy Short,All-Rounder,40000000,Rajasthan Royals,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,40000000,Overpaid
+Darren Bravo,Batsman,5000000,Kolkata Knight Riders,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Darren Sammy,All-Rounder,31875000,Sunrisers Hyderabad,2013,Overseas,174,136,9,127.9411765,11,169,138,23,7.347826087,97.89117647499998,31.40011217603533,661731440.3847219,-629856440.4,Undervalued
+Darren Sammy,All-Rounder,35000000,Sunrisers Hyderabad,2014,Overseas,108,97,9,111.3402062,3,159,88,14.66666667,10.84090909,66.62103093,21.369728302523395,450349381.26913565,-415349381.3,Undervalued
+Darren Sammy,All-Rounder,28000000,Royal Challengers Bangalore,2015,Overseas,13,18,2,72.22222222,0,26,18,3,8.666666667,17.16333333,5.505405199706856,116021869.35765094,-88021869.36,Undervalued
+Darren Sammy,All-Rounder,3000000,Kings XI Punjab,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Darshan Nalkande,All-Rounder,3000000,Kings XI Punjab,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Darshan Nalkande,All-Rounder,2000000,Gujarat Titans,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Daryl Mitchell,All-Rounder,7500000,Rajasthan Royals,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+David Miller,Batsman,30000000,Kings XI Punjab,2018,Overseas,74,66,3,112.1212121,0,0,0,0,0,49.748181814999995,15.95750041827047,336291146.9081001,-306291146.9,Undervalued
+David Miller,Batsman,7500000,Rajasthan Royals,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+David Miller,Batsman,30000000,Gujarat Titans,2022,Overseas,481,348,16,138.2183908,0,0,0,0,0,233.48275861999997,74.89321383026294,1578312650.130104,-1548312650,Undervalued
+David Warner,Batsman,55000000,Sunrisers Hyderabad,2014,Overseas,528,386,14,136.7875648,0,0,0,0,0,252.7381347,81.06967417,1708476452.6364174,-1653476453,Undervalued
+David Warner,Batsman,62500000,Delhi Capitals,2022,Overseas,432,301,12,143.5215947,0,0,0,0,0,211.7282392,67.91511453097431,1431254968.470289,-1368754968,Undervalued
+David Wiese,All-Rounder,28000000,Royal Challengers Bangalore,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,28000000,Overpaid
+David Willey,All-Rounder,20000000,Royal Challengers Bangalore,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Dawid Malan,All-Rounder,15000000,Punjab Kings,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Debabrata Das,Wicket Keeper,2000000,Kolkata Knight Riders,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Deepak Chahar,All-Rounder,1000000,Rising Pune Supergiant,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Deepak Chahar,All-Rounder,8000000,Chennai Super Kings,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,8000000,Overpaid
+Deepak Chahar,Bowler,140000000,Chennai Super Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,140000000,Overpaid
+Deepak Hooda,Bowler,4000000,Rajasthan Royals,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,4000000,Overpaid
+Deepak Hooda,All-Rounder,42000000,Sunrisers Hyderabad,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,42000000,Overpaid
+Deepak Hooda,All-Rounder,36000000,Sunrisers Hyderabad,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,36000000,Overpaid
+Deepak Hooda,All-Rounder,5000000,Kings XI Punjab,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Deepak Hooda,All-Rounder,57500000,Lucknow Super Giants,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,57500000,Overpaid
+Deepak Punia,All-Rounder,1000000,Mumbai Indians,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Devdutt Padikkal,Batsman,2000000,Royal Challengers Bangalore,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Devdutt Padikkal,Batsman,77500000,Rajasthan Royals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,77500000,Overpaid
+Devon Conway,Batsman,10000000,Chennai Super Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Dewald Brevis,Batsman,30000000,Mumbai Indians,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,30000000,Overpaid
+Dhawal Kulkarni,Bowler,11000000,Rajasthan Royals,2014,Indian,35,27,2,129.6296296,6,226,173,28.83333333,7.838150289,35.534444439999994,11.398223841083885,240208157.1525221,-229208157.2,Undervalued
+Dhawal Kulkarni,Bowler,20000000,Gujarat Lions,2016,Indian,27,16,5,168.75,20,365,297,49.5,7.373737374,39.7725,12.757645852180627,268856853.7065522,-248856853.7,Undervalued
+Dhawal Kulkarni,Bowler,7500000,Rajasthan Royals,2018,Indian,6,7,2,85.71428571,4,189,126,21,9,16.377142856499997,5.253222418349281,110707325.4409787,-103207325.4,Undervalued
+Dhruv Jurel,Wicket Keeper,2000000,Rajasthan Royals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Dhruv Shorey,All-Rounder,2000000,Chennai Super Kings,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Digvijay Deshmukh,All-Rounder,2000000,Mumbai Indians,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Dinesh Karthik,Wicket Keeper,125000000,Delhi Daredevils,2014,Indian,325,261,14,124.5210728,0,0,0,0,0,163.60816092000002,52.47985355569649,1105969586.6658242,-980969586.7,Undervalued
+Dinesh Karthik,Wicket Keeper,105000000,Royal Challengers Bangalore,2015,Indian,141,120,11,117.5,0,0,0,0,0,82.32499999999999,26.407019794601037,556506140.7100861,-451506140.7,Undervalued
+Dinesh Karthik,Wicket Keeper,23000000,Gujarat Lions,2016,Indian,335,273,15,122.7106227,0,0,0,0,0,168.00659340500002,53.89071895134315,1135702410.0779254,-1112702410,Undervalued
+Dinesh Karthik,Wicket Keeper,74000000,Kolkata Knight Riders,2018,Indian,498,349,16,142.6934097,0,0,0,0,0,241.46401145499996,77.45332438719656,1632264866.5071132,-1558264867,Undervalued
+Dinesh Karthik,Wicket Keeper,55000000,Royal Challengers Bangalore,2022,Indian,330,188,16,175.5319149,0,0,0,0,0,174.1497872,55.861243592349894,1177229590.0350137,-1122229590,Undervalued
+Dinesh Salunkhe,All-Rounder,1000000,Rajasthan Royals,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Dirk Nannes,Bowler,45000000,Chennai Super Kings,2013,Overseas,0,0,0,0,5,165,126,21,7.857142857,0.25,0.080191375,1689967.0231098887,43310032.97689011,Overpaid
+Dishant Yagnik,Wicket Keeper,3000000,Rajasthan Royals,2014,Indian,4,6,1,66.66666667,0,0,0,0,0,12.09,3.878054896,81726805.24097414,-78726805.24,Undervalued
+Dominic Drakes,All-Rounder,11000000,Gujarat Titans,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,11000000,Overpaid
+Domnic Joseph Muthuswamy,Bowler,7500000,Delhi Daredevils,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Dushmanta Chameera,Bowler,20000000,Lucknow Super Giants,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Dushmantha Chameera,Bowler,5000000,Rajasthan Royals,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Dwaine Pretorius,All-Rounder,5000000,Chennai Super Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Dwayne Bravo,All-Rounder,64000000,Chennai Super Kings,2018,Overseas,141,93,10,151.6129032,18,538,338,56.33333333,9.550295858,87.97193548000001,28.21836187779807,594678679.6814032,-530678679.7,Undervalued
+Dwayne Bravo,All-Rounder,44000000,Chennai Super Kings,2022,Overseas,23,26,6,88.46153846,17,303,229,38.16666667,7.938864629,26.22923077,8.413432324496105,177306140.16459692,-133306140.2,Undervalued
+Dwayne Smith,Batsman,45000000,Chennai Super Kings,2014,Overseas,566,425,16,133.1764706,4,99,62,10.33333333,9.580645161,269.4764706,86.43875485028067,1821625395.204567,-1776625395,Undervalued
+Dwayne Smith,All-Rounder,23000000,Gujarat Lions,2016,Overseas,324,226,12,143.3628319,8,154,113,18.83333333,8.17699115,165.6644248,53.13943206266251,1119869659.1564739,-1096869659,Undervalued
+Eklavya Dwivedi,Wicket Keeper,1000000,Chennai Super Kings,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Eklavya Dwivedi,Wicket Keeper,10000000,Gujarat Lions,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Eklavya Dwivedi,Wicket Keeper,7500000,Sunrisers Hyderabad,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Eoin Morgan,Batsman,15000000,Sunrisers Hyderabad,2015,Overseas,187,154,9,121.4285714,0,0,0,0,0,101.9542857,32.70341744,689197522.9,-674197522.9,Undervalued
+Eoin Morgan,Batsman,20000000,Kings XI Punjab,2017,Overseas,65,62,4,104.8387097,0,0,0,0,0,45.15580646,14.48442483933627,305247295.2435305,-285247295.2,Undervalued
+Eoin Morgan,Batsman,52500000,Kolkata Knight Riders,2020,Overseas,419,314,14,133.4394904,0,0,0,0,0,205.3659236,65.87430317139928,1388246553.9476247,-1335746554,Undervalued
+Evin Lewis,Batsman,38000000,Mumbai Indians,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,38000000,Overpaid
+Evin Lewis,Batsman,20000000,Lucknow Super Giants,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Fabian Allen,All-Rounder,5000000,Sunrisers Hyderabad,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Fabian Allen,All-Rounder,7500000,Punjab Kings,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Fabian Allen,All-Rounder,7500000,Mumbai Indians,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Faf Du Plessis,Batsman,47500000,Chennai Super Kings,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,47500000,Overpaid
+Faf Du Plessis,Batsman,16000000,Chennai Super Kings,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,16000000,Overpaid
+Faf Du Plessis,Batsman,70000000,Royal Challengers Bangalore,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,70000000,Overpaid
+Farhaan Behardien,All-Rounder,3000000,Kings XI Punjab,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Fazalhaq Farooqi,Bowler,5000000,Sunrisers Hyderabad,2022,Overseas,2,8,1,25,2,110,76,12.66666667,8.684210526,5.08,1.6294887404381817,34340129.909592934,-29340129.91,Undervalued
+Fidel Edwards,Bowler,15750000,Rajasthan Royals,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15750000,Overpaid
+Finn Allen,Batsman,8000000,Royal Challengers Bangalore,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,8000000,Overpaid
+Gautam Gambhir,Batsman,28000000,Delhi Daredevils,2018,Indian,85,91,5,93.40659341,0,0,0,0,0,52.41098901,16.81163710028908,354291372.31203896,-326291372.3,Undervalued
+George Bailey,Batsman,32500000,Kings XI Punjab,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,32500000,Overpaid
+Glenn Maxwell,All-Rounder,75000000,Mumbai Indians,2013,Overseas,36,27,3,133.3333333,0,24,12,2,12,36.59,11.736809646552288,247343573.46856394,-172343573.5,Undervalued
+Glenn Maxwell,All-Rounder,60000000,Kings XI Punjab,2014,Overseas,552,312,16,176.9230769,1,133,70,11.66666667,11.4,269.8684615,86.56449202178288,1824275202.2861977,-1764275202,Undervalued
+Glenn Maxwell,All-Rounder,90000000,Delhi Daredevils,2018,Overseas,169,122,12,138.5245902,5,132,98,16.33333333,8.081632653,98.13868853,31.479505504134785,663404589.2278106,-573404589.2,Undervalued
+Glenn Maxwell,All-Rounder,107500000,Kings XI Punjab,2020,Overseas,108,112,11,96.42857143,3,171,126,21,8.142857143,65.12428571449999,20.88962407497182,440231581.0443655,-332731581,Undervalued
+Glenn Maxwell,All-Rounder,142500000,Royal Challengers Bangalore,2021,Overseas,513,373,14,137.5335121,3,135,99,16.5,8.181818182,246.55002681500002,79.08474264759336,1666645659.456835,-1524145659,Undervalued
+Glenn Phillips,Wicket Keeper,15000000,Sunrisers Hyderabad,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Gurinder Sandhu,Bowler,17000000,Delhi Daredevils,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,17000000,Overpaid
+Gurkeerat Singh Mann,Batsman,13000000,Kings XI Punjab,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,13000000,Overpaid
+Gurkeerat Singh Mann,All-Rounder,7500000,Delhi Daredevils,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Gurkeerat Singh Mann,All-Rounder,5000000,Royal Challengers Bangalore,2019,Indian,98,73,3,134.2465753,0,0,0,0,0,63.3869863,20.332358357876345,428487666.13147384,-423487666.1,Undervalued
+Gurkeerat Singh Mann,All-Rounder,5000000,Gujarat Titans,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Hanuma Vihari,Batsman,1000000,Sunrisers Hyderabad,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Hanuma Vihari,Batsman,20000000,Delhi Capitals,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Harbhajan Singh,Bowler,20000000,Chennai Super Kings,2018,Indian,29,38,3,76.31578947,7,270,193,32.16666667,8.393782383,25.37736842,8.140184272,171547663.05582112,-151547663.1,Undervalued
+Harbhajan Singh,Bowler,20000000,Kolkata Knight Riders,2021,Indian,4,4,2,100,0,63,45,7.5,8.4,17.459999999999997,5.600565631506033,118027296.8939946,-98027296.89,Undervalued
+Hardik Pandya,All-Rounder,1000000,Mumbai Indians,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Hardus Viljoen,Bowler,7500000,Kings XI Punjab,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Harpreet Brar,All-Rounder,2000000,Kings XI Punjab,2019,Indian,20,14,1,142.8571429,0,48,30,5,9.6,30.398571435000004,9.750812968255559,205490333.1,-203490333.1,Undervalued
+Harpreet Brar,All-Rounder,38000000,Punjab Kings,2022,Indian,22,25,3,88,4,148,100,16.66666667,8.88,23.969999999999995,7.688749037,162034038.1757761,-124034038.2,Undervalued
+Harry Gurney,Bowler,7500000,Kolkata Knight Riders,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Harshal Patel,Bowler,4000000,Royal Challengers Bangalore,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,4000000,Overpaid
+Harshal Patel,All-Rounder,2000000,Delhi Daredevils,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Harshal Patel,All-Rounder,107500000,Royal Challengers Bangalore,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,107500000,Overpaid
+Heinrich Klaasen,Wicket Keeper,5000000,Royal Challengers Bangalore,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Himmat Singh,Batsman,6500000,Royal Challengers Bangalore,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,6500000,Overpaid
+Hrithik Shokeen,All-Rounder,2000000,Mumbai Indians,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+HS Sharath,Bowler,1000000,Delhi Daredevils,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Imran Tahir,Bowler,10000000,Chennai Super Kings,2018,Overseas,2,2,1,100,6,193,126,21,9.19047619,16.53,5.302253716425816,111740619.56802584,-101740619.6,Undervalued
+Iqbal Abdullah,All-Rounder,6500000,Rajasthan Royals,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,6500000,Overpaid
+Iqbal Abdullah,All-Rounder,1000000,Royal Challengers Bangalore,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Irfan Pathan,All-Rounder,24000000,Sunrisers Hyderabad,2014,Indian,55,58,6,94.82758621,6,209,144,24,8.708333333,40.39413793,12.95704585415081,273059044.1247491,-249059044.1,Undervalued
+Irfan Pathan,All-Rounder,15000000,Chennai Super Kings,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Irfan Pathan,All-Rounder,10000000,Rising Pune Supergiant,2016,Indian,11,14,3,78.57142857,0,61,48,8,7.625,17.62571429,5.653721057165877,119147503.60500747,-109147503.6,Undervalued
+Ishan Kishan,Wicket Keeper,3500000,Gujarat Lions,2016,Indian,42,41,5,102.4390244,0,0,0,0,0,35.27585366,11.315276840219493,238460117.58980107,-234960117.6,Undervalued
+Ishan Kishan,Wicket Keeper,62000000,Mumbai Indians,2018,Indian,275,187,12,147.0588235,0,0,0,0,0,144.7488235,46.430428764893875,978482953.5648115,-916482953.6,Undervalued
+Ishan Kishan,Wicket Keeper,152500000,Mumbai Indians,2022,Indian,418,355,14,117.7464789,0,0,0,0,0,202.58197183500002,64.98130750411364,1369427407.5109048,-1216927408,Undervalued
+Ishan Porel,Bowler,2500000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2500000,Overpaid
+Ishank Jaggi,Batsman,1000000,Kolkata Knight Riders,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Ishank Jaggi,Batsman,2000000,Kolkata Knight Riders,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Ishant Sharma,Bowler,26000000,Sunrisers Hyderabad,2014,Indian,0,0,0,0,3,101,68,11.33333333,8.911764706,0.15000000000000002,0.048114825,1013980.2138659332,24986019.786134068,Overpaid
+Ishant Sharma,Bowler,38000000,Rising Pune Supergiant,2016,Indian,0,0,0,0,3,151,97,16.16666667,9.340206186,0.15000000000000002,0.048114825,1013980.2138659332,36986019.786134064,Overpaid
+Ishant Sharma,Bowler,11000000,Delhi Capitals,2019,Indian,10,3,1,333.3333333,14,364,285,47.5,7.663157895,55.36999999499999,17.760785738172178,374293896.2445787,-363293896.2,Undervalued
+Ishwar Chandra Pandey,Bowler,15000000,Chennai Super Kings,2014,Indian,0,0,0,0,7,331,255,42.5,7.788235294,0.35000000000000003,0.1122679250301897,2365953.8323538443,12634046.167646155,Overpaid
+Ishwar Chandra Pandey,Bowler,2000000,Rising Pune Supergiant,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Isuru Udana,All-Rounder,5000000,Royal Challengers Bangalore,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+J Suchith,All-Rounder,1000000,Mumbai Indians,2015,Indian,48,33,5,145.4545455,10,338,239,39.83333333,8.485355649,44.80818183,14.372918851052022,302897398.5990474,-301897398.6,Undervalued
+J Suchith,Bowler,3000000,Sunrisers Hyderabad,2021,Indian,14,6,1,233.3333333,1,66,42,7,9.428571429,41.43999999499999,13.292522321970626,280128933.7168957,-277128933.7,Undervalued
+Jacob Oram,All-Rounder,3750000,Mumbai Indians,2013,Overseas,0,0,0,0,0,28,26,4.333333333,6.461538462,0,0,0,3750000,Overpaid
+Jacques Kallis,All-Rounder,55000000,Kolkata Knight Riders,2014,Overseas,151,131,7,115.2671756,4,193,134,22.33333333,8.641791045,85.01007634,27.268299649570913,574656902.5866165,-519656902.6,Undervalued
+Jagadeesha Suchith,Bowler,2000000,Sunrisers Hyderabad,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Jalaj Saxena,All-Rounder,9000000,Mumbai Indians,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,9000000,Overpaid
+Jalaj Saxena,All-Rounder,1000000,Royal Challengers Bangalore,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Jalaj Saxena,All-Rounder,2000000,Delhi Capitals,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Jalaj Saxena,All-Rounder,3000000,Punjab Kings,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+James Faulkner,All-Rounder,30000000,Rajasthan Royals,2013,Overseas,57,57,9,100,33,436,395,65.83333333,6.62278481,44.489999999999995,14.270857098837539,300746531.4326357,-270746531.4,Undervalued
+James Neesham,All-Rounder,10000000,Delhi Daredevils,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+James Neesham,All-Rounder,5000000,Kolkata Knight Riders,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+James Neesham,All-Rounder,5000000,Kings XI Punjab,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+James Neesham,All-Rounder,5000000,Mumbai Indians,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+James Neesham,All-Rounder,15000000,Rajasthan Royals,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Jaskaran Singh,Bowler,1000000,Rising Pune Supergiant,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Jason Behrendorff,Bowler,15000000,Mumbai Indians,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Jason Behrendorff,Bowler,7500000,Royal Challengers Bangalore,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Jason Holder,Bowler,1500000,Chennai Super Kings,2013,Overseas,0,0,0,0,4,173,125,20.83333333,8.304,0.2,0.0641531,1351973.6184879108,148026.38151208917,Overpaid
+Jason Holder,Bowler,7500000,Sunrisers Hyderabad,2014,Overseas,16,12,1,133.3333333,1,35,20,3.333333333,10.5,27.3,8.756898150750967,184544398.8898005,-177044398.9,Undervalued
+Jason Holder,All-Rounder,7000000,Kolkata Knight Riders,2016,Overseas,22,20,4,110,3,105,83,13.83333333,7.590361446,27.59,8.849920147,186504760.67040733,-179504760.7,Undervalued
+Jason Holder,All-Rounder,87500000,Lucknow Super Giants,2022,Overseas,58,46,8,126.0869565,16,399,266,44.33333333,9,47.61304348,15.272621700887031,321857893.37058973,-234357893.4,Undervalued
+Jason Roy,Batsman,10000000,Gujarat Lions,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Jason Roy,Batsman,15000000,Delhi Daredevils,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Jason Roy,Batsman,15000000,Delhi Capitals,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Jason Roy,Batsman,20000000,Gujarat Titans,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Jasprit Bumrah,Bowler,12000000,Mumbai Indians,2014,Indian,1,4,2,25,6,307,246,41,7.487804878,5.22,1.6743959104502573,35286511.44253447,-23286511.44,Undervalued
+Jatin Saxena,All-Rounder,2000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Javon Searless,All-Rounder,3000000,Kolkata Knight Riders,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Jayant Yadav,All-Rounder,1000000,Delhi Daredevils,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Jayant Yadav,All-Rounder,5000000,Delhi Daredevils,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Jayant Yadav,All-Rounder,17000000,Gujarat Titans,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,17000000,Overpaid
+Jaydev Shah,All-Rounder,2000000,Gujarat Lions,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Jaydev Unadkat,Bowler,39375000,Royal Challengers Bangalore,2013,Indian,2,2,2,100,13,373,299,49.83333333,7.484949833,17.249999999999996,5.533204876487919,116607724.59458229,-77232724.59,Undervalued
+Jaydev Unadkat,Bowler,28000000,Delhi Daredevils,2014,Indian,1,6,2,16.66666667,10,278,189,31.5,8.825396825,4.170000001,1.337592135520071,28188649.94885287,-188649.9489,Undervalued
+Jaydev Unadkat,Bowler,11000000,Delhi Daredevils,2015,Indian,0,0,0,0,0,30,18,3,10,0,0,0,11000000,Overpaid
+Jaydev Unadkat,Bowler,16000000,Kolkata Knight Riders,2016,Indian,0,0,0,0,0,49,19,3.166666667,15.47368421,0,0,0,16000000,Overpaid
+Jaydev Unadkat,Bowler,3000000,Rising Pune Supergiant,2017,Indian,2,5,1,40,27,330,279,46.5,7.096774194,8.58,2.7521679907400785,57999668.23313137,-54999668.23,Undervalued
+Jaydev Unadkat,Bowler,115000000,Rajasthan Royals,2018,Indian,49,38,5,128.9473684,12,486,310,51.66666667,9.406451613,42.86210526,13.748684628473654,289742177.7218596,-174742177.7,Undervalued
+Jaydev Unadkat,Bowler,84000000,Rajasthan Royals,2019,Indian,1,3,2,33.33333333,11,404,236,39.33333333,10.27118644,6.72,2.155544160419259,45426313.57781387,38573686.42218613,Overpaid
+Jaydev Unadkat,Bowler,30000000,Rajasthan Royals,2020,Indian,9,13,1,69.23076923,5,229,144,24,9.541666667,14.874615384499998,4.771263442399863,100550437.92499205,-70550437.92,Undervalued
+Jaydev Unadkat,Bowler,13000000,Mumbai Indians,2022,Indian,59,37,5,159.4594595,7,191,123,20.5,9.317073171,51.48891892500001,16.51586882787833,348058300.1553146,-335058300.2,Undervalued
+Jean-Paul Duminy,Batsman,22000000,Delhi Daredevils,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,22000000,Overpaid
+Jean-Paul Duminy,All-Rounder,10000000,Mumbai Indians,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Jeevan Mendis,All-Rounder,3750000,Delhi Daredevils,2013,Overseas,23,27,3,85.18518519,1,36,30,5,7.2,23.82777778,7.643129055064736,161072634.7186224,-157322634.7,Undervalued
+Jesse Ryder,All-Rounder,19500000,Delhi Daredevils,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,19500000,Overpaid
+Jhye Richardson,Bowler,140000000,Punjab Kings,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,140000000,Overpaid
+Jitesh Sharma,Wicket Keeper,1000000,Mumbai Indians,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Jitesh Sharma,Wicket Keeper,2000000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Joe Denly,Batsman,10000000,Kolkata Knight Riders,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Joel Paris,Bowler,3000000,Delhi Daredevils,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Jofra Archer,All-Rounder,72000000,Rajasthan Royals,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,72000000,Overpaid
+Jofra Archer,All-Rounder,80000000,Mumbai Indians,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,80000000,Overpaid
+Johan Botha,All-Rounder,33750000,Delhi Daredevils,2013,Overseas,43,52,6,82.69230769,5,114,102,17,6.705882353,33.36384615,10.701970796228345,225535199.05410683,-191785199.1,Undervalued
+John Hastings,All-Rounder,5000000,Chennai Super Kings,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+John Hastings,Bowler,13000000,Kolkata Knight Riders,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,13000000,Overpaid
+Jonny Bairstow,Wicket Keeper,22000000,Sunrisers Hyderabad,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,22000000,Overpaid
+Jonny Bairstow,Wicket Keeper,67500000,Punjab Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,67500000,Overpaid
+Jos Buttler,Wicket Keeper,38000000,Mumbai Indians,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,38000000,Overpaid
+Jos Buttler,Wicket Keeper,44000000,Rajasthan Royals,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,44000000,Overpaid
+Josh Hazlewood,Bowler,5000000,Mumbai Indians,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Josh Hazlewood,Bowler,20000000,Chennai Super Kings,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Josh Hazlewood,Bowler,77500000,Royal Challengers Bangalore,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,77500000,Overpaid
+Joshua Philippe,Wicket Keeper,2000000,Royal Challengers Bangalore,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Juan Theron,Bowler,3000000,Rajasthan Royals,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+K.Bhagath Varma,All-Rounder,2000000,Chennai Super Kings,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+K.Bhagath Varma,All-Rounder,2000000,Chennai Super Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+K.C Cariappa,Bowler,2000000,Rajasthan Royals,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+K.C Cariappa,Bowler,3000000,Rajasthan Royals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+K.C. Cariappa,Bowler,24000000,Kolkata Knight Riders,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,24000000,Overpaid
+K.C. Cariappa,Bowler,8000000,Kings XI Punjab,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,8000000,Overpaid
+K.K. Jiyaz,Bowler,1000000,Delhi Daredevils,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+K.M. Asif,Bowler,2000000,Chennai Super Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+K.S. Bharat,Wicket Keeper,20000000,Delhi Capitals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Kagiso Rabada,Bowler,50000000,Delhi Daredevils,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,50000000,Overpaid
+Kagiso Rabada,Bowler,42000000,Delhi Daredevils,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,42000000,Overpaid
+Kagiso Rabada,Bowler,92500000,Punjab Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,92500000,Overpaid
+Kamlesh Nagarkoti,All-Rounder,32000000,Kolkata Knight Riders,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,32000000,Overpaid
+Kamlesh Nagarkoti,All-Rounder,11000000,Delhi Capitals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,11000000,Overpaid
+Kane Richardson,Bowler,52500000,Pune Warriors India,2013,Overseas,34,36,2,94.44444444,2,103,73,12.16666667,8.465753425,29.62666667,9.503212549008307,200272358.68083593,-147772358.7,Undervalued
+Kane Richardson,Bowler,10000000,Rajasthan Royals,2014,Overseas,1,2,1,50,10,209,167,27.83333333,7.508982036,8.799999999999999,2.8227364007590543,59486839.21346807,-49486839.21,Undervalued
+Kane Richardson,Bowler,20000000,Royal Challengers Bangalore,2016,Overseas,1,1,1,100,8,138,86,14.33333333,9.627906977,16.2,5.196401101397351,109509863.09752077,-89509863.1,Undervalued
+Kane Richardson,Bowler,40000000,Royal Challengers Bangalore,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,40000000,Overpaid
+Kane Williamson,All-Rounder,6000000,Sunrisers Hyderabad,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,6000000,Overpaid
+Kane Williamson,Batsman,30000000,Sunrisers Hyderabad,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,30000000,Overpaid
+Kanishk Seth,All-Rounder,2000000,Chennai Super Kings,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Karan Sharma,All-Rounder,2000000,Lucknow Super Giants,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Karanveer Singh,All-Rounder,1000000,Kings XI Punjab,2014,Indian,1,1,1,100,12,164,126,21,7.80952381,16.400000000000002,5.260554201414603,110861836.71600871,-109861836.7,Undervalued
+Karn Sharma,Bowler,37500000,Sunrisers Hyderabad,2014,Indian,42,30,8,140,17,393,307,51.16666667,7.680781759,42.870000000000005,13.751216988697806,289795545.12288374,-252295545.1,Undervalued
+Karn Sharma,All-Rounder,32000000,Mumbai Indians,2017,Indian,49,42,6,116.6666667,13,217,189,31.5,6.888888889,41.440000004999995,13.292522325178282,280128933.7844944,-248128933.8,Undervalued
+Karn Sharma,Bowler,50000000,Chennai Super Kings,2018,Indian,0,0,0,0,4,90,58,9.666666667,9.310344828,0.2,0.0641531,1351973.6184879108,48648026.38151209,Overpaid
+Karn Sharma,Bowler,5000000,Royal Challengers Bangalore,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Kartik Tyagi,Bowler,13000000,Rajasthan Royals,2020,Indian,4,6,2,66.66666667,10,372,241,40.16666667,9.261410788,12.960000000500001,4.157120881278264,87607890.48139656,-74607890.48,Undervalued
+Kartik Tyagi,Bowler,40000000,Sunrisers Hyderabad,2022,Indian,7,6,2,116.6666667,1,79,54,9,8.777777778,21.300000004999994,6.832305153441083,143985190.4027618,-103985190.4,Undervalued
+Karun Nair,Batsman,7500000,Rajasthan Royals,2014,Indian,330,237,11,139.2405063,0,0,0,0,0,166.8560759,53.521672642928266,1127925063.8102763,-1120425064,Undervalued
+Karun Nair,Batsman,40000000,Delhi Daredevils,2016,Indian,357,304,12,117.4342105,0,0,0,0,0,175.56513157499998,56.31523722736424,1186797131.0787945,-1146797131,Undervalued
+Karun Nair,Batsman,56000000,Kings XI Punjab,2018,Indian,301,225,12,133.7777778,0,0,0,0,0,153.9366667,49.37757186601388,1040591561.2790364,-984591561.3,Undervalued
+Karun Nair,Batsman,5000000,Kolkata Knight Riders,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Karun Nair,Batsman,14000000,Rajasthan Royals,2022,Indian,16,18,2,88.88888889,0,0,0,0,0,20.953333333499998,6.721106445194149,141641769.43137676,-127641769.4,Undervalued
+Kedar Jadhav,Batsman,20000000,Delhi Daredevils,2014,Indian,149,104,10,143.2692308,0,0,0,0,0,89.26038462,28.631651910525875,603388425.9116204,-583388425.9,Undervalued
+Kedar Jadhav,All-Rounder,78000000,Chennai Super Kings,2018,Indian,24,23,1,104.3478261,0,0,0,0,0,26.34217392,8.449660589,178069620.93350205,-100069620.9,Undervalued
+Kedar Jadhav,All-Rounder,20000000,Sunrisers Hyderabad,2021,Indian,55,55,5,100,0,0,0,0,0,40.5,12.991002753493378,273774657.74380195,-253774657.7,Undervalued
+Keemo Paul,All-Rounder,5000000,Delhi Capitals,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Kevin Pietersen,Batsman,90000000,Delhi Daredevils,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,90000000,Overpaid
+Kevin Pietersen,Batsman,20000000,Sunrisers Hyderabad,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Kevin Pietersen,Batsman,35000000,Rising Pune Supergiant,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,35000000,Overpaid
+Kevon Cooper,All-Rounder,3000000,Rajasthan Royals,2014,Overseas,39,28,3,139.2857143,4,146,110,18.33333333,7.963636364,38.97285715,12.50114801190615,263451373.48569041,-260451373.5,Undervalued
+Kieron Pollard,All-Rounder,54000000,Mumbai Indians,2018,Overseas,133,104,8,127.8846154,0,0,0,0,0,79.33269230999998,25.44719072200624,536278535.4336937,-482278535.4,Undervalued
+Kishore Pramod Kamath,All-Rounder,14000000,Mumbai Indians,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,14000000,Overpaid
+KL Rahul,Batsman,10000000,Sunrisers Hyderabad,2014,Indian,166,166,8,100,0,0,0,0,0,89.33999999999999,28.657189777706126,603926615.3785497,-593926615.4,Undervalued
+KL Rahul,Batsman,110000000,Kings XI Punjab,2018,Indian,659,426,14,154.6948357,0,0,0,0,0,311.7542254,100,2107417440.6604748,-1997417441,Undervalued
+Kona Srikar Bharat,Wicket Keeper,1000000,Delhi Daredevils,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Kona Srikar Bharat,Wicket Keeper,2000000,Royal Challengers Bangalore,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Krishnappa Gowtham,All-Rounder,20000000,Mumbai Indians,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Krishnappa Gowtham,Bowler,62000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,62000000,Overpaid
+Krishnappa Gowtham,All-Rounder,92500000,Chennai Super Kings,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,92500000,Overpaid
+Krishnappa Gowtham,All-Rounder,9000000,Lucknow Super Giants,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,9000000,Overpaid
+Krismar Santokie,Bowler,3000000,Mumbai Indians,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Krunal Pandya,All-Rounder,20000000,Mumbai Indians,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Krunal Pandya,All-Rounder,88000000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,88000000,Overpaid
+Krunal Pandya,All-Rounder,82500000,Lucknow Super Giants,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,82500000,Overpaid
+Kshitiz Sharma,All-Rounder,2000000,Chennai Super Kings,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Kuldeep Sen,Bowler,2000000,Rajasthan Royals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Kuldeep Yadav,Bowler,4000000,Kolkata Knight Riders,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,4000000,Overpaid
+Kuldeep Yadav,Bowler,58000000,Kolkata Knight Riders,2018,Indian,12,25,3,48,18,423,312,52,8.134615385,14.37,4.609400236239502,97139304.48835638,-39139304.49,Undervalued
+Kuldeep Yadav,Bowler,20000000,Delhi Capitals,2022,Indian,48,54,7,88.88888889,21,420,306,51,8.235294118,37.613333333499995,12.065059676631176,254261171.8514197,-234261171.9,Undervalued
+Kuldip Yadav,Bowler,2000000,Rajasthan Royals,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Kuldip Yadav,Bowler,2000000,Rajasthan Royals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Kulwant Khejroliya,Bowler,1000000,Mumbai Indians,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Kulwant Khejroliya,Bowler,8500000,Royal Challengers Bangalore,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,8500000,Overpaid
+Kusal Janith Perera,Wicket Keeper,1500000,Rajasthan Royals,2013,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1500000,Overpaid
+Kyle Abbott,Bowler,3000000,Chennai Super Kings,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Kyle Abbott,Bowler,21000000,Kings XI Punjab,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,21000000,Overpaid
+Kyle Jamieson,All-Rounder,150000000,Royal Challengers Bangalore,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,150000000,Overpaid
+Kyle Mayers,All-Rounder,5000000,Lucknow Super Giants,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Lakshmipathy Balaji,Bowler,18000000,Kings XI Punjab,2014,Indian,1,3,2,33.33333333,12,305,211,35.16666667,8.672985782,6.7699999994999995,2.1715824354235718,45764306.982435845,-27764306.98,Undervalued
+Lalit Yadav,All-Rounder,2000000,Delhi Capitals,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Lalit Yadav,All-Rounder,6500000,Delhi Capitals,2022,Indian,161,152,8,105.9210526,4,152,110,18.33333333,8.290909091,88.27815789,28.316587462279337,596748702.8,-590248702.8,Undervalued
+Lasith Malinga,Bowler,20000000,Mumbai Indians,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Laxmi Ratan Shukla,All-Rounder,15000000,Delhi Daredevils,2014,Indian,31,38,3,81.57894737,1,88,58,9.666666667,9.103448276,26.72684211,8.573048873697116,180669927.16063944,-165669927.2,Undervalued
+Laxmi Ratan Shukla,All-Rounder,3000000,Sunrisers Hyderabad,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Liam Livingstone,All-Rounder,5000000,Rajasthan Royals,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Liam Livingstone,All-Rounder,7500000,Rajasthan Royals,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Liam Livingstone,All-Rounder,115000000,Punjab Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,115000000,Overpaid
+Lockie Ferguson,Bowler,5000000,Rising Pune Supergiant,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Lockie Ferguson,Bowler,16000000,Kolkata Knight Riders,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,16000000,Overpaid
+Lockie Ferguson,Bowler,100000000,Gujarat Titans,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,100000000,Overpaid
+Luke Pomersbach,Batsman,22500000,Kings XI Punjab,2013,Overseas,58,60,3,96.66666667,0,0,0,0,0,40.55,13.007041028658072,274112651.15180385,-251612651.2,Undervalued
+Lukman Hussain Meriwala,Bowler,2000000,Delhi Capitals,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Lungisani Ngidi,Bowler,5000000,Chennai Super Kings,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Lungisani Ngidi,Bowler,5000000,Delhi Capitals,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Luvnith Sisodia,Wicket Keeper,2000000,Royal Challengers Bangalore,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+M Siddharth,Bowler,2000000,Kolkata Knight Riders,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+M Siddharth,Bowler,2000000,Delhi Capitals,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+M. Ashwin,Bowler,45000000,Rising Pune Supergiant,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,45000000,Overpaid
+M. Ashwin,Bowler,10000000,Delhi Daredevils,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+M. Ashwin,Bowler,22000000,Royal Challengers Bangalore,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,22000000,Overpaid
+M. Ashwin,Bowler,2000000,Kings XI Punjab,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+M. Harisankar Reddy,Bowler,2000000,Chennai Super Kings,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Maheesh Theekshana,Bowler,7000000,Chennai Super Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7000000,Overpaid
+Mahipal Lomror,All-Rounder,1000000,Delhi Daredevils,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Mahipal Lomror,All-Rounder,2000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Mahipal Lomror,All-Rounder,9500000,Royal Challengers Bangalore,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,9500000,Overpaid
+Manan Ajay Sharma,All-Rounder,1000000,Kolkata Knight Riders,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Manan Vohra,Batsman,11000000,Royal Challengers Bangalore,2018,Indian,55,50,4,110,0,0,0,0,0,41.629999999999995,13.353467768590846,281413308.68825865,-270413308.7,Undervalued
+Manan Vohra,Batsman,2000000,Rajasthan Royals,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Manan Vohra,Batsman,2000000,Lucknow Super Giants,2022,Indian,19,12,1,158.3333333,0,0,0,0,0,32.289999994999995,10.357517996181384,218276140.67107382,-216276140.7,Undervalued
+Mandeep Hardev Singh,All-Rounder,8000000,Kings XI Punjab,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,8000000,Overpaid
+Mandeep Singh,All-Rounder,14000000,Royal Challengers Bangalore,2018,Indian,252,193,13,130.5699482,0,0,0,0,0,132.7554922,42.58338185435305,897409616,-883409616,Undervalued
+Mandeep Singh,Batsman,11000000,Delhi Capitals,2022,Indian,18,24,3,75,0,0,0,0,0,20.1,6.447386551733751,135873348.65803507,-124873348.7,Undervalued
+Manish Pandey,Batsman,17000000,Kolkata Knight Riders,2014,Indian,409,359,16,113.9275766,0,0,0,0,0,198.87913648999998,63.793565672937646,1344396729.0106819,-1327396729,Undervalued
+Manish Pandey,Batsman,110000000,Sunrisers Hyderabad,2018,Indian,284,257,13,110.5058366,0,0,0,0,0,143.5058755,46.03173391686587,970080788.8024544,-860080788.8,Undervalued
+Manish Pandey,Batsman,46000000,Lucknow Super Giants,2022,Indian,88,84,6,104.7619048,0,0,0,0,0,55.774285719999995,17.890466650929536,377026814.4,-331026814.4,Undervalued
+Manjot Kalra,Batsman,2000000,Delhi Daredevils,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Manoj Tiwary,Batsman,28000000,Delhi Daredevils,2014,Indian,152,123,8,123.5772358,0,28,12,2,14,86.85658536999999,27.860596041992654,587139060.0609151,-559139060.1,Undervalued
+Manoj Tiwary,Batsman,5000000,Rising Pune Supergiant,2017,Indian,324,242,13,133.8842975,0,0,0,0,0,164.2126446,52.67375107,1110055816.7756531,-1105055817,Undervalued
+Manoj Tiwary,Batsman,10000000,Kings XI Punjab,2018,Indian,47,45,4,104.4444444,0,10,7,1.166666667,8.571428571,37.356666659999995,11.982729862750473,252526138.99483445,-242526139,Undervalued
+Manpreet Gony,Bowler,37500000,Kings XI Punjab,2013,Indian,45,27,4,166.6666667,7,261,175,29.16666667,8.948571429,46.18000001,14.812950795587138,312170708.5426579,-274670708.5,Undervalued
+Manpreet Gony,Bowler,6000000,Gujarat Lions,2017,Indian,0,0,0,0,0,32,15,2.5,12.8,0,0,0,6000000,Overpaid
+Manprit Juneja,Batsman,1000000,Sunrisers Hyderabad,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Manvinder Bisla,Wicket Keeper,6000000,Kolkata Knight Riders,2014,Indian,3,9,1,33.33333333,0,0,0,0,0,6.66,2.136298230414084,45020721.49,-39020721.49,Undervalued
+Manzoor Dar,All-Rounder,2000000,Kings XI Punjab,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Marchant De Lange,Bowler,3000000,Mumbai Indians,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Marco Jansen,All-Rounder,2000000,Mumbai Indians,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Marco Jansen,All-Rounder,42000000,Sunrisers Hyderabad,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,42000000,Overpaid
+Marcus Stoinis,All-Rounder,2500000,Delhi Daredevils,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,2500000,Overpaid
+Marcus Stoinis,All-Rounder,5500000,Kings XI Punjab,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5500000,Overpaid
+Marcus Stoinis,All-Rounder,62000000,Kings XI Punjab,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,62000000,Overpaid
+Marcus Stoinis,All-Rounder,48000000,Delhi Capitals,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,48000000,Overpaid
+Mark Wood,Bowler,15000000,Chennai Super Kings,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Mark Wood,Bowler,75000000,Lucknow Super Giants,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,75000000,Overpaid
+Martin Guptill,Batsman,5000000,Kings XI Punjab,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Martin Guptill,Batsman,10000000,Sunrisers Hyderabad,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Matt Henry,Bowler,3000000,Chennai Super Kings,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Matt Henry,Bowler,5000000,Kings XI Punjab,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Matthew Wade,Wicket Keeper,24000000,Gujarat Titans,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,24000000,Overpaid
+Mayank Agarwal,Batsman,16000000,Delhi Daredevils,2014,Indian,115,93,8,123.655914,0,0,0,0,0,70.9583871,22.76100252344565,479669336.8482644,-463669336.8,Undervalued
+Mayank Agarwal,Batsman,10000000,Kings XI Punjab,2018,Indian,120,94,11,127.6595745,0,0,0,0,0,74.81893618,23.999333478095565,505766139.35965407,-495766139.4,Undervalued
+Mayank Dagar,All-Rounder,2000000,Kings XI Punjab,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Mayank Markande,Bowler,2000000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Mayank Markande,Bowler,6500000,Mumbai Indians,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,6500000,Overpaid
+Mayank Yadav,Bowler,2000000,Lucknow Super Giants,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Michael Clarke,Batsman,30000000,Pune Warriors India,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,30000000,Overpaid
+Michael Hussey,Batsman,50000000,Mumbai Indians,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,50000000,Overpaid
+Michael Hussey,Batsman,15000000,Chennai Super Kings,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Midhun S,All-Rounder,2000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Milind Kumar,Batsman,1000000,Delhi Daredevils,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Milind Kumar,All-Rounder,2000000,Royal Challengers Bangalore,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Milind Tandon,All-Rounder,1000000,Rising Pune Supergiant,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Mitchell Johnson,All-Rounder,65000000,Kings XI Punjab,2014,Overseas,56,51,8,109.8039216,17,450,340,56.66666667,7.941176471,44.36058824,14.229346270924095,299871725.0054253,-234871725,Undervalued
+Mitchell Johnson,Bowler,20000000,Mumbai Indians,2017,Overseas,20,17,2,117.6470588,9,147,125,20.83333333,7.056,27.437058819999997,8.800861893293325,185470898.4677052,-165470898.5,Undervalued
+Mitchell Johnson,Bowler,20000000,Kolkata Knight Riders,2018,Overseas,16,11,2,145.4545455,2,218,133,22.16666667,9.834586466,29.53818183,9.474829664734889,199674212.82749546,-179674212.8,Undervalued
+Mitchell Marsh,All-Rounder,48000000,Rising Pune Supergiant,2016,Overseas,7,11,1,63.63636364,4,45,55,9.166666667,4.909090909,13.125454545999999,4.210192991307115,88726341.38427109,-40726341.38,Undervalued
+Mitchell Marsh,All-Rounder,20000000,Sunrisers Hyderabad,2020,Overseas,0,1,1,0,0,6,4,0.666666667,9,0.37,0.11868323503191482,2501151.1942026354,17498848.805797365,Overpaid
+Mitchell Marsh,All-Rounder,65000000,Delhi Capitals,2022,Overseas,251,192,8,130.7291667,4,102,76,12.66666667,8.052631579,130.699375,41.923850384439966,883510534.7980914,-818510534.8,Undervalued
+Mitchell McClenaghan,Bowler,3000000,Mumbai Indians,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Mitchell Santner,All-Rounder,5000000,Chennai Super Kings,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Mitchell Santner,All-Rounder,19000000,Chennai Super Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,19000000,Overpaid
+Mitchell Starc,Bowler,50000000,Royal Challengers Bangalore,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,50000000,Overpaid
+Mitchell Starc,Bowler,94000000,Kolkata Knight Riders,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,94000000,Overpaid
+Mithun Manhas,All-Rounder,3000000,Chennai Super Kings,2014,Indian,35,26,5,134.6153846,0,0,0,0,0,37.09230769,11.897932625536138,250739107.2285813,-247739107.2,Undervalued
+Moeen Ali,All-Rounder,17000000,Royal Challengers Bangalore,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,17000000,Overpaid
+Moeen Ali,All-Rounder,70000000,Chennai Super Kings,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,70000000,Overpaid
+Mohammad Nabi,All-Rounder,3000000,Sunrisers Hyderabad,2017,Overseas,2,3,1,66.66666667,2,59,66,11,5.363636364,11.330000000499998,3.634273116137665,76589305.49072006,-73589305.49,Undervalued
+Mohammad Nabi,All-Rounder,10000000,Sunrisers Hyderabad,2018,Overseas,18,12,2,150,1,47,30,5,9.4,31.03,9.953353468,209758706.90839934,-199758706.9,Undervalued
+Mohammad Nabi,All-Rounder,10000000,Kolkata Knight Riders,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Mohammad Shami,Bowler,42500000,Delhi Daredevils,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,42500000,Overpaid
+Mohammad Shami,Bowler,30000000,Delhi Daredevils,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,30000000,Overpaid
+Mohammad Shami,Bowler,48000000,Kings XI Punjab,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,48000000,Overpaid
+Mohammad Shami,Bowler,62500000,Gujarat Titans,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,62500000,Overpaid
+Mohammed Azharudeen,Wicket Keeper,2000000,Royal Challengers Bangalore,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Mohammed Siraj,Bowler,26000000,Sunrisers Hyderabad,2017,Indian,0,0,0,0,10,214,141,23.5,9.106382979,0.5,0.16038275004312813,3379934.0462197773,22620065.953780223,Overpaid
+Mohammed Siraj,Bowler,26000000,Royal Challengers Bangalore,2018,Indian,25,23,3,108.6956522,12,372,264,44,8.454545455,28.76434783,9.226610416344968,194443197.0958499,-168443197.1,Undervalued
+Mohd. Arshad Khan,All-Rounder,2000000,Mumbai Indians,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Mohit Sharma,Bowler,20000000,Chennai Super Kings,2014,Indian,1,3,1,33.33333333,26,457,324,54,8.462962963,7.1,2.277435050452036,47995063.45294089,-27995063.45,Undervalued
+Mohit Sharma,Bowler,65000000,Kings XI Punjab,2016,Indian,32,27,5,118.5185185,16,410,304,50.66666667,8.092105263,34.18777778,10.966259634835671,231104868.13263664,-166104868.1,Undervalued
+Mohit Sharma,Bowler,24000000,Kings XI Punjab,2018,Indian,10,14,4,71.42857143,7,328,186,31,10.58064516,16.84428571,5.403065730807374,113865149.54138395,-89865149.54,Undervalued
+Mohit Sharma,Bowler,50000000,Chennai Super Kings,2019,Indian,0,2,1,0,1,27,18,3,9,0.42,0.13472151003622762,2839144.598824613,47160855.40117539,Overpaid
+Mohit Sharma,Bowler,5000000,Delhi Capitals,2020,Indian,0,0,0,0,1,45,25,4.166666667,10.8,0.05,0.016038275,337993.4046219777,4662006.595378023,Overpaid
+Mohsin Khan,Bowler,2000000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Mohsin Khan,Bowler,2000000,Mumbai Indians,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Mohsin Khan,Bowler,2000000,Lucknow Super Giants,2022,Indian,23,19,3,121.0526316,14,202,206,34.33333333,5.883495146,29.85789474,9.577382537798899,201835429.9603448,-199835430,Undervalued
+Moises Henriques,All-Rounder,22500000,Royal Challengers Bangalore,2013,Overseas,165,127,9,129.9212598,8,187,132,22,8.5,94.16818897,30.20590622717913,636564535.9411215,-614064535.9,Undervalued
+Moises Henriques,All-Rounder,10000000,Sunrisers Hyderabad,2014,Overseas,9,14,2,64.28571429,4,96,63,10.5,9.142857143,14.45285714,4.635977949309998,97699407.84893273,-87699407.85,Undervalued
+Moises Henriques,All-Rounder,10000000,Kings XI Punjab,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Moises Henriques,All-Rounder,42000000,Punjab Kings,2021,Overseas,31,32,4,96.875,4,47,61,10.16666667,4.62295082,29.541249999999998,9.475813829423116,199694953.28577995,-157694953.3,Undervalued
+Monu Singh,Bowler,2000000,Chennai Super Kings,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Morne Morkel,Bowler,28000000,Kolkata Knight Riders,2014,Overseas,4,4,1,100,13,376,305,50.83333333,7.396721311,17.74,5.690379971530185,119920059.95987768,-91920059.96,Undervalued
+Mujeeb Zadran,Bowler,40000000,Kings XI Punjab,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,40000000,Overpaid
+Mujeeb Zadran,Bowler,15000000,Sunrisers Hyderabad,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Mukesh Choudhary,Bowler,2000000,Chennai Super Kings,2022,Indian,6,6,2,100,16,425,291,48.5,8.762886598,19.119999999999997,6.133036361649218,129248677.92744425,-127248677.9,Undervalued
+Munaf Patel,Bowler,3000000,Gujarat Lions,2017,Indian,0,1,1,0,1,58,42,7,8.285714286,0.42,0.13472151003622762,2839144.598824613,160855.4011753872,Overpaid
+Murali Kartik,Bowler,10000000,Kings XI Punjab,2014,Indian,0,0,0,0,2,91,49,8.166666667,11.14285714,0.1,0.03207655,675986.8092439554,9324013.190756045,Overpaid
+Murali Vijay,Batsman,50000000,Delhi Daredevils,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,50000000,Overpaid
+Murali Vijay,Batsman,30000000,Kings XI Punjab,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,30000000,Overpaid
+Murali Vijay,Batsman,20000000,Chennai Super Kings,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Murugan Ashwin,Bowler,16000000,Mumbai Indians,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,16000000,Overpaid
+Mustafizur Rahman,Bowler,14000000,Sunrisers Hyderabad,2016,Overseas,0,0,0,0,19,427,376,62.66666667,6.813829787,0.9500000000000001,0.30472722508194344,6421874.687817577,7578125.312182423,Overpaid
+Mustafizur Rahman,Bowler,22000000,Mumbai Indians,2018,Overseas,1,3,1,33.33333333,9,232,167,27.83333333,8.335329341,6.25,2.0047843753787187,42249175.57436728,-20249175.57,Undervalued
+Mustafizur Rahman,Bowler,10000000,Rajasthan Royals,2021,Overseas,8,14,3,57.14285714,18,448,327,54.5,8.220183486,14.021428570999998,4.497590547500535,94783007.60752322,-84783007.61,Undervalued
+Mustafizur Rahman,Bowler,20000000,Delhi Capitals,2022,Overseas,3,5,1,60,9,248,199,33.16666667,7.477386935,11.109999999999998,3.563704705958306,75102134.50700343,-55102134.51,Undervalued
+Muttiah Muralitharan,Bowler,10000000,Royal Challengers Bangalore,2014,Overseas,0,0,0,0,4,125,99,16.5,7.575757576,0.2,0.0641531,1351973.6184879108,8648026.381512089,Overpaid
+N Jagadeesan,Wicket Keeper,2000000,Chennai Super Kings,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+N. Jagadeesan,Wicket Keeper,2000000,Chennai Super Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+N. Tilak Varma,All-Rounder,17000000,Mumbai Indians,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,17000000,Overpaid
+Naman Ojha,Wicket Keeper,5000000,Sunrisers Hyderabad,2014,Indian,232,170,10,136.4705882,0,0,0,0,0,123.93058823000001,39.75265710957985,837754429.1,-832754429.1,Undervalued
+Naman Ojha,Wicket Keeper,14000000,Delhi Daredevils,2018,Indian,1,4,1,25,0,0,0,0,0,4.55,1.4594830253924658,30757399.82059997,-16757399.82,Undervalued
+Nathan Coulter-Nile,Bowler,33750000,Mumbai Indians,2013,Overseas,9,6,1,150,1,29,25,4.166666667,6.96,26.790000000000003,8.593307747310805,181096866.19645566,-147346866.2,Undervalued
+Nathan Coulter-Nile,Bowler,42500000,Delhi Daredevils,2014,Overseas,0,0,0,0,2,27,26,4.333333333,6.230769231,0.1,0.03207655,675986.8092439554,41824013.190756045,Overpaid
+Nathan Coulter-Nile,Bowler,35000000,Kolkata Knight Riders,2017,Overseas,14,13,3,107.6923077,16,232,178,29.66666667,7.820224719,24.08384616,7.725266955909034,162803623.16640753,-127803623.2,Undervalued
+Nathan Coulter-Nile,Bowler,22000000,Royal Challengers Bangalore,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,22000000,Overpaid
+Nathan Coulter-Nile,Bowler,80000000,Mumbai Indians,2020,Overseas,25,15,2,166.6666667,6,206,165,27.5,7.490909091,36.79000001,11.800962749777195,248695547.15465057,-168695547.2,Undervalued
+Nathan Coulter-Nile,Bowler,50000000,Mumbai Indians,2021,Overseas,4,5,2,80,7,131,121,20.16666667,6.495867769,14.81,4.750537056277455,100113646.4490298,-50113646.45,Undervalued
+Nathan Coulter-Nile,Bowler,20000000,Rajasthan Royals,2022,Overseas,1,2,1,50,0,49,20,3.333333333,14.7,8.299999999999999,2.662353650715926,56106905.16724829,-36106905.17,Undervalued
+Nathan Ellis,Bowler,7500000,Punjab Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Nathan McCullum,Bowler,7500000,Sunrisers Hyderabad,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Nathu Singh,Bowler,32000000,Mumbai Indians,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,32000000,Overpaid
+Nathu Singh,Bowler,5000000,Gujarat Lions,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Nathu Singh,Bowler,2000000,Delhi Capitals,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Navdeep Saini,Bowler,1000000,Delhi Daredevils,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Navdeep Saini,Bowler,30000000,Royal Challengers Bangalore,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,30000000,Overpaid
+Navdeep Saini,Bowler,26000000,Rajasthan Royals,2022,Indian,2,2,1,100,3,73,39,6.5,11.23076923,16.38,5.254138891412877,110726639.35415989,-84726639.35,Undervalued
+Nic Maddinson,Batsman,5000000,Royal Challengers Bangalore,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Nicolas Pooran,Wicket Keeper,3000000,Mumbai Indians,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Nicolas Pooran,Wicket Keeper,42000000,Kings XI Punjab,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,42000000,Overpaid
+Nicolas Pooran,Wicket Keeper,107500000,Sunrisers Hyderabad,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,107500000,Overpaid
+Nidheesh M D Dinesan,Bowler,2000000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Nikhil Shankar Naik,Wicket Keeper,3000000,Kings XI Punjab,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Nikhil Shankar Naik,Wicket Keeper,2000000,Kolkata Knight Riders,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Nikhil Shankar Naik,Wicket Keeper,2000000,Kolkata Knight Riders,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Nitish Rana,All-Rounder,1000000,Mumbai Indians,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Nitish Rana,All-Rounder,34000000,Kolkata Knight Riders,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,34000000,Overpaid
+Nitish Rana,All-Rounder,80000000,Kolkata Knight Riders,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,80000000,Overpaid
+Noor Ahmad,Bowler,3000000,Gujarat Titans,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Obed Mccoy,Bowler,7500000,Rajasthan Royals,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Odean Smith,All-Rounder,60000000,Punjab Kings,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,60000000,Overpaid
+Oshane Thomas,Bowler,11000000,Rajasthan Royals,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,11000000,Overpaid
+Oshane Thomas,Bowler,5000000,Rajasthan Royals,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Pankaj Jaswal,All-Rounder,2000000,Mumbai Indians,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Pankaj Singh,Bowler,11250000,Royal Challengers Bangalore,2013,Indian,0,0,0,0,0,0,0,0,0,0,0,0,11250000,Overpaid
+Paras Dogra,Batsman,1000000,Gujarat Lions,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Pardeep Sahu,All-Rounder,1000000,Rajasthan Royals,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Pardeep Sahu,All-Rounder,1000000,Kings XI Punjab,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Pardeep Sahu,Bowler,2000000,Kings XI Punjab,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Parthiv Patel,Wicket Keeper,14000000,Royal Challengers Bangalore,2014,Indian,205,191,12,107.3298429,0,0,0,0,0,108.6894764,34.863834262786135,734726523.7369173,-720726523.7,Undervalued
+Parthiv Patel,Wicket Keeper,17000000,Royal Challengers Bangalore,2018,Indian,153,109,6,140.3669725,0,0,0,0,0,89.06504588,28.568993980299723,602067961.7620776,-585067961.8,Undervalued
+Parveez Rasool,All-Rounder,9500000,Sunrisers Hyderabad,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,9500000,Overpaid
+Parvinder Awana,Bowler,6500000,Kings XI Punjab,2014,Indian,0,0,0,0,9,248,146,24.33333333,10.19178082,0.45,0.1443444750388153,3041940.6415977995,3458059.3584022005,Overpaid
+Pat Cummins,Bowler,10000000,Kolkata Knight Riders,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Pat Cummins,Bowler,45000000,Delhi Daredevils,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,45000000,Overpaid
+Pat Cummins,Bowler,54000000,Mumbai Indians,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,54000000,Overpaid
+Pat Cummins,All-Rounder,155000000,Kolkata Knight Riders,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,155000000,Overpaid
+Pat Cummins,All-Rounder,72500000,Kolkata Knight Riders,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,72500000,Overpaid
+Pavan Deshpande,All-Rounder,2000000,Royal Challengers Bangalore,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Pavan Deshpande,All-Rounder,2000000,Royal Challengers Bangalore,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Pawan Negi,Bowler,1000000,Chennai Super Kings,2014,Indian,0,0,0,0,1,76,43,7.166666667,10.60465116,0.05,0.016038275,337993.4046219777,662006.5953780223,Overpaid
+Pawan Negi,All-Rounder,85000000,Delhi Daredevils,2016,Indian,57,63,6,90.47619048,2,84,54,9,9.333333333,40.40142857,12.959384440096741,273108327.89283854,-188108327.9,Undervalued
+Pawan Negi,All-Rounder,10000000,Royal Challengers Bangalore,2017,Indian,144,114,10,126.3157895,17,202,200,33.33333333,6.06,85.41736842499999,27.398944898897113,577410143.3563113,-567410143.4,Undervalued
+Pawan Negi,All-Rounder,10000000,Royal Challengers Bangalore,2018,Indian,3,5,2,60,1,49,24,4,12.25,11.08,3.554081740955719,74899338.46423025,-64899338.46,Undervalued
+Pawan Negi,All-Rounder,5000000,Kolkata Knight Riders,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Pawan Suyal,Bowler,1000000,Mumbai Indians,2014,Indian,0,0,0,0,1,35,21,3.5,10,0.05,0.016038275,337993.4046219777,662006.5953780223,Overpaid
+Pawan Suyal,Bowler,1000000,Delhi Daredevils,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Peter Handscomb,Wicket Keeper,3000000,Rising Pune Supergiant,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Philip Hughes,Batsman,7500000,Mumbai Indians,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Piyush Chawla,Bowler,42500000,Kolkata Knight Riders,2014,Indian,31,20,5,155,14,304,238,39.66666667,7.663865546,39.13,12.551554018375208,264513638.4571598,-222013638.5,Undervalued
+Piyush Chawla,Bowler,42000000,Kolkata Knight Riders,2018,Indian,27,36,5,75,14,419,296,49.33333333,8.493243243,25.41,8.150651357191771,171768248.22888908,-129768248.2,Undervalued
+Piyush Chawla,Bowler,67500000,Chennai Super Kings,2020,Indian,0,0,0,0,7,191,128,21.33333333,8.953125,0.35000000000000003,0.1122679250301897,2365953.8323538443,65134046.167646155,Overpaid
+Piyush Chawla,Bowler,24000000,Mumbai Indians,2021,Indian,0,2,1,0,1,38,24,4,9.5,0.42,0.13472151003622762,2839144.598824613,21160855.401175387,Overpaid
+Prabhsimran Singh,Wicket Keeper,48000000,Kings XI Punjab,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,48000000,Overpaid
+Prabhsimran Singh,Wicket Keeper,5500000,Kings XI Punjab,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5500000,Overpaid
+Prabhsimran Singh,Wicket Keeper,6000000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,6000000,Overpaid
+Pradeep Sangwan,All-Rounder,2000000,Gujarat Lions,2016,Indian,0,0,0,0,0,49,25,4.166666667,11.76,0,0,0,2000000,Overpaid
+Pradeep Sangwan,Bowler,15000000,Mumbai Indians,2018,Indian,0,5,1,0,0,20,12,2,10,0.37,0.11868323503191482,2501151.1942026354,12498848.805797365,Overpaid
+Pradeep Sangwan,All-Rounder,2000000,Gujarat Titans,2022,Indian,2,6,1,33.33333333,3,66,56,9.333333333,7.071428571,6.379999999500001,2.0464838903899323,43127958.42638443,-41127958.43,Undervalued
+Pragyan Ojha,Bowler,32500000,Mumbai Indians,2014,Indian,4,8,3,50,5,385,282,47,8.191489362,10.58,3.3936989909125908,71519404.41801047,-39019404.42,Undervalued
+Pragyan Ojha,Bowler,5000000,Mumbai Indians,2015,Indian,0,0,0,0,0,23,12,2,11.5,0,0,0,5000000,Overpaid
+Prasanth Padmanabhan,All-Rounder,1000000,Sunrisers Hyderabad,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Prasanth Parameswaran,Bowler,3000000,Sunrisers Hyderabad,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Prashant Chopra,Wicket Keeper,2000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Prashant Solanki,Bowler,12000000,Chennai Super Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,12000000,Overpaid
+Prasidh Krishna,Bowler,100000000,Rajasthan Royals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,100000000,Overpaid
+Pratham Singh,All-Rounder,1000000,Gujarat Lions,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Pratham Singh,Batsman,2000000,Kolkata Knight Riders,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Pratyush Singh,All-Rounder,1000000,Chennai Super Kings,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Pratyush Singh,All-Rounder,1000000,Delhi Daredevils,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Praveen Dubey,All-Rounder,3500000,Royal Challengers Bangalore,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3500000,Overpaid
+Praveen Dubey,All-Rounder,1000000,Royal Challengers Bangalore,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Praveen Kumar,Bowler,22000000,Sunrisers Hyderabad,2015,Indian,17,25,4,68,7,338,230,38.33333333,8.817391304,19.34,6.2036047716681955,130735848.90778098,-108735848.9,Undervalued
+Praveen Kumar,Bowler,35000000,Gujarat Lions,2016,Indian,24,27,6,88.88888889,10,408,319,53.16666667,7.673981191,26.37333333,8.459655455661657,178280254.49239913,-143280254.5,Undervalued
+Pravin Dubey,All-Rounder,5000000,Delhi Capitals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Pravin Tambe,Bowler,1000000,Rajasthan Royals,2014,Indian,5,9,2,55.55555556,15,365,304,50.66666667,7.203947368,11.973333334000001,3.8406322545799516,80938153.96464951,-79938153.96,Undervalued
+Pravin Tambe,Bowler,2000000,Gujarat Lions,2016,Indian,7,19,1,36.84210526,5,143,97,16.16666667,8.845360825,9.156315788999999,2.937030213006268,61895486.94636159,-59895486.95,Undervalued
+Pravin Tambe,Bowler,1000000,Sunrisers Hyderabad,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Pravin Tambe,Bowler,2000000,Kolkata Knight Riders,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Prayas Ray Barman,All-Rounder,15000000,Royal Challengers Bangalore,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Prerak Mankad,All-Rounder,2000000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Prince Balwant Rai Singh,All-Rounder,2000000,Mumbai Indians,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Prithvi Raj Yarra,Bowler,2000000,Kolkata Knight Riders,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Prithvi Shaw,Batsman,12000000,Delhi Daredevils,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,12000000,Overpaid
+Priyam Garg,Batsman,19000000,Sunrisers Hyderabad,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,19000000,Overpaid
+Priyam Garg,Batsman,2000000,Sunrisers Hyderabad,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Quinton De Kock,Wicket Keeper,1500000,Sunrisers Hyderabad,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,1500000,Overpaid
+Quinton De Kock,Wicket Keeper,35000000,Delhi Daredevils,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,35000000,Overpaid
+Quinton De Kock,Wicket Keeper,28000000,Royal Challengers Bangalore,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,28000000,Overpaid
+Quinton De Kock,Wicket Keeper,67500000,Lucknow Super Giants,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,67500000,Overpaid
+R Samarth,Batsman,2000000,Sunrisers Hyderabad,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+R. Ashwin,All-Rounder,50000000,Rajasthan Royals,2022,Indian,191,140,12,136.4285714,13,506,419,69.83333333,7.245823389,107.6842857,34.54140375719945,727931567.0281737,-677931567,Undervalued
+R. Sai Kishore,Bowler,2000000,Chennai Super Kings,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+R. Sai Kishore,Bowler,30000000,Gujarat Titans,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,30000000,Overpaid
+R. Sanjay Yadav,All-Rounder,1000000,Kolkata Knight Riders,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Rahul Ajay Tripathi,All-Rounder,1000000,Rising Pune Supergiant,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Rahul Buddhi,Batsman,2000000,Mumbai Indians,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Rahul Chahar,Bowler,1000000,Rising Pune Supergiant,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Rahul Chahar,Bowler,19000000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,19000000,Overpaid
+Rahul Chahar,Bowler,52500000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,52500000,Overpaid
+Rahul Sharma,Bowler,19000000,Delhi Daredevils,2014,Indian,0,0,0,0,1,65,36,6,10.83333333,0.05,0.016038275,337993.4046219777,18662006.595378023,Overpaid
+Rahul Sharma,Bowler,3000000,Chennai Super Kings,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Rahul Shukla,Bowler,4000000,Delhi Daredevils,2014,Indian,18,21,3,85.71428571,3,105,58,9.666666667,10.86206897,21.857142856499998,7.011017358821965,147751402.58754748,-143751402.6,Undervalued
+Rahul Tewatia,All-Rounder,1000000,Rajasthan Royals,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Rahul Tewatia,All-Rounder,2500000,Kings XI Punjab,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2500000,Overpaid
+Rahul Tewatia,All-Rounder,30000000,Delhi Daredevils,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,30000000,Overpaid
+Rahul Tewatia,All-Rounder,90000000,Gujarat Titans,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,90000000,Overpaid
+Rahul Tripathi,Batsman,34000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,34000000,Overpaid
+Rahul Tripathi,Batsman,6000000,Kolkata Knight Riders,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,6000000,Overpaid
+Rahul Tripathi,Batsman,85000000,Sunrisers Hyderabad,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,85000000,Overpaid
+Raj Angad Bawa,All-Rounder,20000000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Rajagopal Sathish,All-Rounder,2000000,Kolkata Knight Riders,2016,Indian,24,24,3,100,2,59,38,6.333333333,9.315789474,26.53,8.509908717288377,179339300.49242136,-177339300.5,Undervalued
+Rajat Bhatia,All-Rounder,17000000,Rajasthan Royals,2014,Indian,67,55,7,121.8181818,13,287,232,38.66666667,7.422413793,50.32272727,16.141794778465833,340174998.3970108,-323174998.4,Undervalued
+Rajat Bhatia,All-Rounder,6000000,Rising Pune Supergiant,2016,Indian,34,20,5,170,6,249,208,34.66666667,7.182692308,42.269999999999996,13.55875768864605,285739624.26741993,-279739624.3,Undervalued
+Rajat Patidar,Batsman,2000000,Royal Challengers Bangalore,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Rajvardhan Hangargekar,All-Rounder,15000000,Chennai Super Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Ramandeep Singh,All-Rounder,2000000,Mumbai Indians,2022,Indian,45,42,4,107.1428571,6,55,41,6.833333333,8.048780488,37.20142856499999,11.93293483757536,251476749.94971284,-249476749.9,Undervalued
+Ramesh Kumar,Batsman,2000000,Kolkata Knight Riders,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Ranganath Vinay Kumar,Bowler,28000000,Kolkata Knight Riders,2014,Indian,4,7,2,57.14285714,10,294,194,32.33333333,9.092783505,11.53142857,3.698884452285758,77950936.05734874,-49950936.06,Undervalued
+Ranganath Vinay Kumar,Bowler,10000000,Kolkata Knight Riders,2018,Indian,6,4,1,150,2,65,25,4.166666667,15.6,25.55,8.195558527203847,172714629.76183063,-162714629.8,Undervalued
+Rashid Khan Arman,Bowler,40000000,Sunrisers Hyderabad,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,40000000,Overpaid
+Rashid Khan Arman,Bowler,90000000,Sunrisers Hyderabad,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,90000000,Overpaid
+Rasikh Dar,Bowler,2000000,Mumbai Indians,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Rasikh Dar,Bowler,2000000,Kolkata Knight Riders,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Rassie Van Der Dussen,Batsman,10000000,Rajasthan Royals,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Ravi Bishnoi,Bowler,20000000,Kings XI Punjab,2020,Indian,7,12,2,58.33333333,14,381,318,53,7.188679245,13.2,4.234104600978199,89230258.81682217,-69230258.82,Undervalued
+Ravi Bopara,All-Rounder,10000000,Sunrisers Hyderabad,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Ravi Rampaul,Bowler,21750000,Royal Challengers Bangalore,2013,Overseas,38,39,6,97.43589744,15,282,241,40.16666667,7.020746888,33.92538462,10.882092961969825,229331124.98943815,-207581125,Undervalued
+Ravi Rampaul,Bowler,9000000,Royal Challengers Bangalore,2014,Overseas,13,13,1,100,2,37,37,6.166666667,6,21.060000000000002,6.755321431816556,142362822,-133362822,Undervalued
+Ravichandran Ashwin,All-Rounder,76000000,Kings XI Punjab,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,76000000,Overpaid
+Ricky Bhui,Batsman,1000000,Sunrisers Hyderabad,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Ricky Bhui,Batsman,2000000,Sunrisers Hyderabad,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Ricky Ponting,Batsman,30000000,Mumbai Indians,2013,Overseas,52,76,5,68.42105263,0,0,0,0,0,34.47315789,11.057799731581763,233034000.09666124,-203034000.1,Undervalued
+Riley Meredith,Bowler,80000000,Punjab Kings,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,80000000,Overpaid
+Riley Meredith,Bowler,10000000,Mumbai Indians,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Rinku Singh,Batsman,1000000,Kings XI Punjab,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Rinku Singh,Batsman,8000000,Kolkata Knight Riders,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,8000000,Overpaid
+Rinku Singh,Batsman,5500000,Kolkata Knight Riders,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5500000,Overpaid
+Ripal Patel,All-Rounder,2000000,Delhi Capitals,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Ripal Patel,All-Rounder,2000000,Delhi Capitals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Rishabh Pant,Wicket Keeper,19000000,Delhi Daredevils,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,19000000,Overpaid
+Rishi Dhawan,All-Rounder,30000000,Kings XI Punjab,2014,Indian,82,75,6,109.3333333,15,373,294,49,7.612244898,54.63,17.523419268108352,369291593.8561735,-339291593.9,Undervalued
+Rishi Dhawan,All-Rounder,5500000,Kolkata Knight Riders,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5500000,Overpaid
+Rishi Dhawan,All-Rounder,5500000,Punjab Kings,2022,Indian,37,41,4,90.24390244,6,164,119,19.83333333,8.268907563,31.226585366000002,10.016411270911162,211087598.05146334,-205587598.1,Undervalued
+Riyan Parag,All-Rounder,2000000,Rajasthan Royals,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Riyan Parag,All-Rounder,38000000,Rajasthan Royals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,38000000,Overpaid
+Robin Uthappa,Batsman,50000000,Kolkata Knight Riders,2014,Indian,660,485,16,136.0824742,0,0,0,0,0,310.1323711,99.47976511845087,2096453920.0343091,-2046453920,Undervalued
+Robin Uthappa,Batsman,64000000,Kolkata Knight Riders,2018,Indian,351,274,16,128.1021898,0,0,0,0,0,176.0653285,56.47568313453052,1190178396.1092424,-1126178396,Undervalued
+Robin Uthappa,Batsman,30000000,Rajasthan Royals,2020,Indian,196,170,12,115.2941176,0,0,0,0,0,106.0141176,34.005671460997796,716641451.1827693,-686641451.2,Undervalued
+Robin Uthappa,Batsman,20000000,Chennai Super Kings,2022,Indian,230,181,11,127.0718232,0,0,0,0,0,122.0307735,39.14326208122485,824911931.9431708,-804911931.9,Undervalued
+Romario Shepherd,All-Rounder,77500000,Sunrisers Hyderabad,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,77500000,Overpaid
+Ronit More,Bowler,1000000,Chennai Super Kings,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Ross Taylor,Batsman,20000000,Delhi Daredevils,2014,Overseas,59,62,4,95.16129032,0,0,0,0,0,41.12419355,13.191222509068211,277994123.7924338,-257994123.8,Undervalued
+Rovman Powell,All-Rounder,3000000,Kolkata Knight Riders,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Rovman Powell,Batsman,28000000,Delhi Capitals,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,28000000,Overpaid
+Rudra Pratap Singh,Bowler,30000000,Royal Challengers Bangalore,2013,Indian,0,0,0,0,14,336,251,41.83333333,8.03187251,0.7000000000000001,0.2245358500603794,4731907.664707689,25268092.33529231,Overpaid
+Rudra Pratap Singh,Bowler,3000000,Rising Pune Supergiant,2016,Indian,0,0,0,0,3,114,76,12.66666667,9,0.15000000000000002,0.048114825,1013980.2138659332,1986019.7861340668,Overpaid
+Ruturaj Gaikwad,Batsman,2000000,Chennai Super Kings,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Ryan McLaren,Bowler,3750000,Kolkata Knight Riders,2013,Overseas,3,6,2,50,4,95,46,7.666666667,12.39130435,9.729999999999999,3.1210483158392726,65773516.53943685,-62023516.54,Undervalued
+Ryan Ten Doeschate,All-Rounder,10000000,Kolkata Knight Riders,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Sachin Baby,Batsman,1000000,Royal Challengers Bangalore,2016,Indian,119,82,6,145.1219512,3,8,10,1.666666667,4.8,75.30829268000001,24.156302162142353,509074124.7836313,-508074124.8,Undervalued
+Sachin Baby,Batsman,2000000,Sunrisers Hyderabad,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Sachin Baby,Batsman,2000000,Royal Challengers Bangalore,2021,Indian,7,17,1,41.17647059,0,0,0,0,0,9.556470589,3.065386067379802,64600480.61,-62600480.61,Undervalued
+Sachin Rana,Bowler,2000000,Royal Challengers Bangalore,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Sachithra Senanayaka,All-Rounder,46875000,Kolkata Knight Riders,2013,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,46875000,Overpaid
+Sagar Trivedi,All-Rounder,1000000,Rajasthan Royals,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Sam Billings,Wicket Keeper,3000000,Delhi Daredevils,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Sam Billings,Wicket Keeper,10000000,Chennai Super Kings,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Sam Billings,Wicket Keeper,20000000,Delhi Capitals,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Sam Billings,Wicket Keeper,20000000,Kolkata Knight Riders,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Sam Curran,All-Rounder,72000000,Kings XI Punjab,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,72000000,Overpaid
+Sam Curran,All-Rounder,55000000,Chennai Super Kings,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,55000000,Overpaid
+Samuel Badree,Bowler,3000000,Chennai Super Kings,2014,Overseas,0,0,0,0,2,103,87,14.5,7.103448276,0.1,0.03207655,675986.8092439554,2324013.1907560444,Overpaid
+Samuel Badree,Bowler,5000000,Royal Challengers Bangalore,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Sandeep Bavanaka,All-Rounder,2000000,Sunrisers Hyderabad,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Sandeep Lamichhane,Bowler,2000000,Delhi Daredevils,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Sandeep Sharma,Bowler,8500000,Kings XI Punjab,2014,Indian,2,5,1,40,19,358,255,42.5,8.423529412,8.18,2.623861790705576,55295720.99615555,-46795721,Undervalued
+Sandeep Sharma,Bowler,30000000,Sunrisers Hyderabad,2018,Indian,0,4,3,0,14,334,273,45.5,7.340659341,1.81,0.5805855551561238,12235361.247315593,17764638.752684407,Overpaid
+Sandeep Sharma,Bowler,5000000,Punjab Kings,2022,Indian,0,0,0,0,3,156,126,21,7.428571429,0.15000000000000002,0.048114825,1013980.2138659332,3986019.786134067,Overpaid
+Sandeep Warrier,Bowler,1000000,Royal Challengers Bangalore,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Sanjay Yadav,All-Rounder,2000000,Sunrisers Hyderabad,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Sanjay Yadav,All-Rounder,5000000,Mumbai Indians,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Sanju Samson,Wicket Keeper,42000000,Delhi Daredevils,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,42000000,Overpaid
+Sanju Samson,Wicket Keeper,80000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,80000000,Overpaid
+Sarabjit Ladda,Bowler,1000000,Gujarat Lions,2016,Indian,0,0,0,0,0,21,12,2,10.5,0,0,0,1000000,Overpaid
+Sarfaraz Khan,All-Rounder,2000000,Delhi Capitals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Sarfaraz Naushad Khan,Batsman,5000000,Royal Challengers Bangalore,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Sarfaraz Naushad Khan,All-Rounder,2500000,Kings XI Punjab,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2500000,Overpaid
+Saurabh Dubey,Bowler,2000000,Sunrisers Hyderabad,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Saurabh Kumar,Bowler,1000000,Rising Pune Supergiant,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Saurabh Kumar,All-Rounder,2000000,Punjab Kings,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Saurabh Tiwary,Batsman,7000000,Delhi Daredevils,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,7000000,Overpaid
+Saurabh Tiwary,Batsman,3000000,Mumbai Indians,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Saurabh Tiwary,Batsman,8000000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,8000000,Overpaid
+Saurabh Tiwary,Batsman,5000000,Mumbai Indians,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Sayan Ghosh,Bowler,1000000,Kolkata Knight Riders,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Sayan Ghosh,Bowler,2000000,Delhi Daredevils,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Sayan Sekhar Mandal,All-Rounder,1000000,Kolkata Knight Riders,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Scott Boland,Bowler,5000000,Rising Pune Supergiant,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Sean Abbott,Bowler,10000000,Royal Challengers Bangalore,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Sean Abbott,Bowler,24000000,Sunrisers Hyderabad,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,24000000,Overpaid
+Shadab Jakati,Bowler,2000000,Royal Challengers Bangalore,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Shadab Jakati,All-Rounder,2000000,Gujarat Lions,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Shahbaz Ahamad,Wicket Keeper,2000000,Royal Challengers Bangalore,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Shahbaz Ahamad,All-Rounder,24000000,Royal Challengers Bangalore,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,24000000,Overpaid
+Shahbaz Nadeem,Bowler,8500000,Delhi Daredevils,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,8500000,Overpaid
+Shahbaz Nadeem,Bowler,32000000,Delhi Daredevils,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,32000000,Overpaid
+Shahbaz Nadeem,Bowler,5000000,Lucknow Super Giants,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Shahrukh Khan,All-Rounder,52500000,Punjab Kings,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,52500000,Overpaid
+Shahrukh Khan,All-Rounder,90000000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,90000000,Overpaid
+Shakib Al Hasan,All-Rounder,28000000,Kolkata Knight Riders,2014,Overseas,229,160,11,143.125,15,339,307,51.16666667,6.625407166,124.75874999999999,40.01830283388622,843352693.3776432,-815352693.4,Undervalued
+Shakib Al Hasan,All-Rounder,20000000,Sunrisers Hyderabad,2018,Overseas,239,203,13,117.7339901,16,458,345,57.5,7.965217391,126.0400985,40.42931523108497,852014440.3194864,-832014440.3,Undervalued
+Shakib Al Hasan,All-Rounder,32000000,Kolkata Knight Riders,2021,Overseas,47,50,6,94,5,188,157,26.16666667,7.184713376,36.78,11.797755093172505,248627948.4399268,-216627948.4,Undervalued
+Shane Watson,All-Rounder,95000000,Royal Challengers Bangalore,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,95000000,Overpaid
+Shane Watson,All-Rounder,40000000,Chennai Super Kings,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,40000000,Overpaid
+Sharad Lumba,Batsman,2000000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Shardul Thakur,Bowler,2000000,Kings XI Punjab,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Shardul Thakur,Bowler,26000000,Chennai Super Kings,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,26000000,Overpaid
+Shardul Thakur,Bowler,107500000,Delhi Capitals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,107500000,Overpaid
+Shashank Singh,All-Rounder,1000000,Delhi Daredevils,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Shashank Singh,All-Rounder,3000000,Rajasthan Royals,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Shashank Singh,All-Rounder,2000000,Sunrisers Hyderabad,2022,Indian,69,47,5,146.8085106,0,20,13,2.166666667,9.230769231,53.54127659,17.174194360647917,361931967.2492219,-359931967.2,Undervalued
+Shaun Marsh,Batsman,22000000,Kings XI Punjab,2014,Overseas,70,54,2,129.6296296,0,0,0,0,0,50.284444439999994,16.129514967356165,339916211.5160055,-317916211.5,Undervalued
+Sheldon Cottrell,Bowler,85000000,Kings XI Punjab,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,85000000,Overpaid
+Sheldon Jackson,Batsman,1500000,Kolkata Knight Riders,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1500000,Overpaid
+Sheldon Jackson,Wicket Keeper,2000000,Kolkata Knight Riders,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Sheldon Jackson,Wicket Keeper,6000000,Kolkata Knight Riders,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,6000000,Overpaid
+Shelley Shaurya,Bowler,1000000,Gujarat Lions,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Sherfane Rutherford,All-Rounder,20000000,Delhi Capitals,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Sherfane Rutherford,All-Rounder,10000000,Royal Challengers Bangalore,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Shikhar Dhawan,Batsman,52000000,Sunrisers Hyderabad,2018,Indian,497,379,16,131.1345646,0,0,0,0,0,239.3001847,76.75924341282133,1617637683.0008235,-1565637683,Undervalued
+Shikhar Dhawan,Batsman,82500000,Punjab Kings,2022,Indian,460,395,14,116.4556962,0,0,0,0,0,220.4483544,70.71222665,1490201797.1421628,-1407701797,Undervalued
+Shimron Hetmyer,Batsman,42000000,Royal Challengers Bangalore,2019,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,42000000,Overpaid
+Shimron Hetmyer,Batsman,77500000,Delhi Capitals,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,77500000,Overpaid
+Shimron Hetmyer,Batsman,85000000,Rajasthan Royals,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,85000000,Overpaid
+Shishir Bhavane,Batsman,1000000,Royal Challengers Bangalore,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Shivam Dube,All-Rounder,50000000,Royal Challengers Bangalore,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,50000000,Overpaid
+Shivam Dube,All-Rounder,44000000,Rajasthan Royals,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,44000000,Overpaid
+Shivam Dube,All-Rounder,40000000,Chennai Super Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,40000000,Overpaid
+Shivam Mavi,All-Rounder,30000000,Kolkata Knight Riders,2018,Indian,13,15,3,86.66666667,7,273,179,29.83333333,9.150837989,20.05,6.431348277,135535355.3,-105535355.3,Undervalued
+Shivam Mavi,All-Rounder,72500000,Kolkata Knight Riders,2022,Indian,3,8,3,37.5,5,229,142,23.66666667,9.676056338,8.275,2.654334513,55937908.46493731,16562091.535062693,Overpaid
+Shivam Sharma,Bowler,1000000,Kings XI Punjab,2014,Indian,5,3,2,166.6666667,3,121,96,16,7.5625,28.040000004999996,8.994264624,189546701.34580442,-188546701.3,Undervalued
+Shivil Kaushik,Bowler,1000000,Gujarat Lions,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Shreevats Goswami,Wicket Keeper,10000000,Sunrisers Hyderabad,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Shreyas Gopal,Bowler,1000000,Mumbai Indians,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Shreyas Gopal,All-Rounder,2000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Shreyas Gopal,Bowler,7500000,Sunrisers Hyderabad,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Shreyas Iyer,Batsman,26000000,Delhi Daredevils,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,26000000,Overpaid
+Shreyas Iyer,Batsman,122500000,Kolkata Knight Riders,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,122500000,Overpaid
+Shrikant Mundhe,All-Rounder,2000000,Kolkata Knight Riders,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Shubam Agrawal,All-Rounder,1000000,Gujarat Lions,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Shubham Garhwal,All-Rounder,2000000,Rajasthan Royals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Shubham Ranjane,All-Rounder,2000000,Rajasthan Royals,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Shubman Gill,Batsman,18000000,Kolkata Knight Riders,2018,Indian,203,142,10,142.9577465,0,0,0,0,0,112.43366197499999,36.06483980993996,760036724.1009368,-742036724.1,Undervalued
+Siddarth Kaul,Bowler,4500000,Delhi Daredevils,2014,Indian,2,2,1,100,2,136,82,13.66666667,9.951219512,16.33,5.2381006164085635,110388645.9495379,-105888645.9,Undervalued
+Siddarth Kaul,Bowler,1000000,Sunrisers Hyderabad,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Siddarth Kaul,Bowler,38000000,Sunrisers Hyderabad,2018,Indian,3,14,3,21.42857143,24,558,402,67,8.328358209,6.814285715,2.185787764942224,46063672.57421522,-8063672.574,Undervalued
+Siddarth Kaul,Bowler,7500000,Royal Challengers Bangalore,2022,Indian,0,0,0,0,0,43,24,4,10.75,0,0,0,7500000,Overpaid
+Siddhesh Dinesh Lad,All-Rounder,1000000,Mumbai Indians,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Siddhesh Dinesh Lad,Batsman,2000000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Simarjeet Singh,Bowler,2000000,Chennai Super Kings,2022,Indian,7,8,3,87.5,4,143,113,18.83333333,7.592920354,17.444999999999997,5.595754149004739,117925898.87260799,-115925898.9,Undervalued
+Srikkanth Anirudha,Batsman,2000000,Sunrisers Hyderabad,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Steven Smith,All-Rounder,40000000,Rajasthan Royals,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,40000000,Overpaid
+Steven Smith,Batsman,22000000,Delhi Capitals,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,22000000,Overpaid
+Stuart Binny,All-Rounder,20000000,Royal Challengers Bangalore,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Stuart Binny,All-Rounder,5000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Subhranshu Senapati,Batsman,2000000,Chennai Super Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Subramaniam Badrinath,Batsman,3000000,Royal Challengers Bangalore,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Sudeep Tyagi,Bowler,7500000,Sunrisers Hyderabad,2013,Indian,0,0,0,0,0,0,0,0,0,0,0,0,7500000,Overpaid
+Sumit Narwal,All-Rounder,1000000,Kolkata Knight Riders,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Suryakumar Yadav,Batsman,7000000,Kolkata Knight Riders,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,7000000,Overpaid
+Suryakumar Yadav,Batsman,32000000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,32000000,Overpaid
+Sushant Marathe,Wicket Keeper,1000000,Mumbai Indians,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Suyash Prabhudesai,All-Rounder,2000000,Royal Challengers Bangalore,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Suyash Prabhudessai,All-Rounder,3000000,Royal Challengers Bangalore,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Swapnil Singh,All-Rounder,1000000,Kings XI Punjab,2016,Indian,0,1,1,0,0,29,18,3,9.666666667,0.37,0.11868323503191482,2501151.1942026354,-1501151.194,Undervalued
+Syed Khaleel Ahmed,All-Rounder,1000000,Delhi Daredevils,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Syed Khaleel Ahmed,Bowler,30000000,Sunrisers Hyderabad,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,30000000,Overpaid
+Syed Khaleel Ahmed,Bowler,52500000,Delhi Capitals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,52500000,Overpaid
+Syed Mehdi Hasan,All-Rounder,2000000,Sunrisers Hyderabad,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+T Natarajan,Bowler,30000000,Kings XI Punjab,2017,Indian,0,0,0,0,2,116,82,13.66666667,8.487804878,0.1,0.03207655,675986.8092439554,29324013.190756045,Overpaid
+T Natarajan,Bowler,4000000,Sunrisers Hyderabad,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,4000000,Overpaid
+T. Natarajan,Bowler,40000000,Sunrisers Hyderabad,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,40000000,Overpaid
+Tajinder Dhillon,All-Rounder,5500000,Mumbai Indians,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5500000,Overpaid
+Tajinder Dhillon,All-Rounder,2000000,Kings XI Punjab,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Tanmay Agarwal,Batsman,1000000,Sunrisers Hyderabad,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Tanmay Agarwal,Batsman,2000000,Sunrisers Hyderabad,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Tanmay Mishra,Batsman,1000000,Royal Challengers Bangalore,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Tejas Baroka,Bowler,2000000,Rajasthan Royals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Tejas Singh Baroka,Bowler,1000000,Gujarat Lions,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Thisara Perera,All-Rounder,50625000,Sunrisers Hyderabad,2013,Overseas,235,173,14,135.8381503,21,490,369,61.5,7.967479675,127.6557225,40.94755168,862935845.6492622,-812310845.6,Undervalued
+Thisara Perera,All-Rounder,16000000,Kings XI Punjab,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,16000000,Overpaid
+Thisara Perera,All-Rounder,10000000,Rising Pune Supergiant,2016,Overseas,150,97,10,154.6391753,10,326,202,33.66666667,9.683168317,91.89587629500001,29.477026715630416,621204001.9933429,-611204002,Undervalued
+Tim David,All-Rounder,82500000,Mumbai Indians,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,82500000,Overpaid
+Tim Seifert,Wicket Keeper,5000000,Delhi Capitals,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Tim Southee,Bowler,12000000,Rajasthan Royals,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,12000000,Overpaid
+Tim Southee,Bowler,25000000,Mumbai Indians,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,25000000,Overpaid
+Tim Southee,Bowler,10000000,Royal Challengers Bangalore,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Tim Southee,Bowler,15000000,Kolkata Knight Riders,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Tirumalasetti Suman,Batsman,1000000,Sunrisers Hyderabad,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Tom Banton,Batsman,10000000,Kolkata Knight Riders,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Tom Curran,All-Rounder,10000000,Rajasthan Royals,2020,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Tom Curran,All-Rounder,52500000,Delhi Capitals,2021,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,52500000,Overpaid
+Travis Head,Batsman,3000000,Delhi Daredevils,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Travis Head,Batsman,5000000,Royal Challengers Bangalore,2016,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Trent Boult,Bowler,38000000,Sunrisers Hyderabad,2015,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,38000000,Overpaid
+Trent Boult,Bowler,50000000,Kolkata Knight Riders,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,50000000,Overpaid
+Trent Boult,Bowler,22000000,Delhi Daredevils,2018,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,22000000,Overpaid
+Trent Boult,Bowler,80000000,Rajasthan Royals,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,80000000,Overpaid
+Tushar Deshpande,Bowler,2000000,Delhi Capitals,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Tushar Deshpande,Bowler,2000000,Chennai Super Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Tymal Mills,Bowler,120000000,Royal Challengers Bangalore,2017,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,120000000,Overpaid
+Tymal Mills,Bowler,15000000,Mumbai Indians,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,15000000,Overpaid
+Umang Sharma,Batsman,1000000,Gujarat Lions,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Umesh Yadav,Bowler,26000000,Kolkata Knight Riders,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,26000000,Overpaid
+Umesh Yadav,Bowler,42000000,Royal Challengers Bangalore,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,42000000,Overpaid
+Umesh Yadav,Bowler,10000000,Delhi Capitals,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Umesh Yadav,Bowler,20000000,Kolkata Knight Riders,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Unmukt Chand,Batsman,6500000,Rajasthan Royals,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,6500000,Overpaid
+Utkarsh Singh,All-Rounder,2000000,Punjab Kings,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Vaibhav Arora,Bowler,2000000,Kolkata Knight Riders,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Vaibhav Arora,Bowler,20000000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Vaibhav Rawal,All-Rounder,1000000,Kolkata Knight Riders,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Varun Aaron,Bowler,20000000,Royal Challengers Bangalore,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,20000000,Overpaid
+Varun Aaron,Bowler,28000000,Kings XI Punjab,2017,Indian,0,0,0,0,0,0,0,0,0,0,0,0,28000000,Overpaid
+Varun Aaron,Bowler,24000000,Rajasthan Royals,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,24000000,Overpaid
+Varun Aaron,Bowler,5000000,Gujarat Titans,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Varun Chakaravarthy,All-Rounder,84000000,Kings XI Punjab,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,84000000,Overpaid
+Varun Chakaravarthy,All-Rounder,40000000,Kolkata Knight Riders,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,40000000,Overpaid
+Veer Pratap Singh,Bowler,4000000,Kolkata Knight Riders,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,4000000,Overpaid
+Venkatesh Iyer,All-Rounder,2000000,Kolkata Knight Riders,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Venugopal Rao,Batsman,5500000,Sunrisers Hyderabad,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5500000,Overpaid
+Vicky Ostwal,All-Rounder,2000000,Delhi Capitals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Vijay Shankar,All-Rounder,1000000,Chennai Super Kings,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Vijay Shankar,All-Rounder,3500000,Sunrisers Hyderabad,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3500000,Overpaid
+Vijay Shankar,All-Rounder,32000000,Delhi Daredevils,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,32000000,Overpaid
+Vijay Shankar,All-Rounder,14000000,Gujarat Titans,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,14000000,Overpaid
+Vijay Zol,Batsman,3000000,Royal Challengers Bangalore,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,3000000,Overpaid
+Vikas Tokas,Bowler,1000000,Royal Challengers Bangalore,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Vikramjeet Malik,Bowler,2000000,Rajasthan Royals,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Vikramjeet Malik,Bowler,2000000,Royal Challengers Bangalore,2016,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Virat Singh,Batsman,19000000,Sunrisers Hyderabad,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,19000000,Overpaid
+Virender Sehwag,Batsman,32000000,Kings XI Punjab,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,32000000,Overpaid
+Vishnu Vinod,Wicket Keeper,2000000,Delhi Capitals,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Vishnu Vinod,Wicket Keeper,5000000,Sunrisers Hyderabad,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Wanindu Hasaranga,All-Rounder,107500000,Royal Challengers Bangalore,2022,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,107500000,Overpaid
+Washington Sundar,All-Rounder,32000000,Royal Challengers Bangalore,2018,Indian,65,40,5,162.5,4,194,122,20.33333333,9.540983607,54.37500000000001,17.441624067190183,367567827.52640074,-335567827.5,Undervalued
+Washington Sundar,All-Rounder,87500000,Sunrisers Hyderabad,2022,Indian,101,76,7,132.8947368,6,239,170,28.33333333,8.435294118,66.25421052,21.25206497,447869723.68392104,-360369723.7,Undervalued
+Wayne Parnell,Bowler,10000000,Delhi Daredevils,2014,Overseas,0,0,0,0,0,0,0,0,0,0,0,0,10000000,Overpaid
+Wriddhiman Saha,Wicket Keeper,22000000,Kings XI Punjab,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,22000000,Overpaid
+Wriddhiman Saha,Wicket Keeper,50000000,Sunrisers Hyderabad,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,50000000,Overpaid
+Wriddhiman Saha,Wicket Keeper,12000000,Sunrisers Hyderabad,2019,Indian,0,0,0,0,0,0,0,0,0,0,0,0,12000000,Overpaid
+Wriddhiman Saha,Wicket Keeper,19000000,Gujarat Titans,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,19000000,Overpaid
+Writtick Chatterjee,All-Rounder,2000000,Punjab Kings,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Yash Dayal,Bowler,32000000,Gujarat Titans,2022,Indian,0,1,1,0,13,296,205,34.16666667,8.663414634,1.02,0.32718081008798133,6895065.454288345,25104934.545711655,Overpaid
+Yash Dhull,All-Rounder,5000000,Delhi Capitals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,5000000,Overpaid
+Yashasvi Jaiswal,All-Rounder,24000000,Rajasthan Royals,2020,Indian,0,0,0,0,0,0,0,0,0,0,0,0,24000000,Overpaid
+Yogesh Gowalkar,All-Rounder,1000000,Kings XI Punjab,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Yogesh Takawale,Wicket Keeper,1000000,Royal Challengers Bangalore,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Yudhvir Charak,All-Rounder,2000000,Mumbai Indians,2021,Indian,0,0,0,0,0,0,0,0,0,0,0,0,2000000,Overpaid
+Yusuf Pathan,All-Rounder,32500000,Kolkata Knight Riders,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,32500000,Overpaid
+Yusuf Pathan,All-Rounder,19000000,Sunrisers Hyderabad,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,19000000,Overpaid
+Yuvraj Singh,All-Rounder,140000000,Royal Challengers Bangalore,2014,Indian,376,288,14,130.5555556,6,191,140,23.33333333,8.185714286,186.74333334000002,59.90081870657955,1262360300.5208697,-1122360301,Undervalued
+Yuvraj Singh,Batsman,160000000,Delhi Daredevils,2015,Indian,248,215,13,115.3488372,1,75,55,9.166666667,8.181818182,128.8023256,41.315342376941494,870686730.9,-710686730.9,Undervalued
+Yuvraj Singh,All-Rounder,70000000,Sunrisers Hyderabad,2016,Indian,236,183,10,128.9617486,0,52,38,6.333333333,8.210526316,124.52426229000001,39.94308726632399,841767587.3887451,-771767587.4,Undervalued
+Yuvraj Singh,All-Rounder,20000000,Kings XI Punjab,2018,Indian,65,74,6,87.83783784,0,23,13,2.166666667,10.61538462,43.34567568,13.90379733478881,293011049.94742566,-273011049.9,Undervalued
+Yuvraj Singh,All-Rounder,10000000,Mumbai Indians,2019,Indian,98,83,4,118.0722892,0,0,0,0,0,61.33084338,19.672818647497557,414588411.2468697,-404588411.2,Undervalued
+Yuzvendra Chahal,Bowler,65000000,Rajasthan Royals,2022,Indian,0,0,0,0,0,0,0,0,0,0,0,0,65000000,Overpaid
+Yuzvendra Singh Chahal,Bowler,1000000,Royal Challengers Bangalore,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,1000000,Overpaid
+Yuzvendra Singh Chahal,Bowler,60000000,Royal Challengers Bangalore,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,60000000,Overpaid
+Zaheer Khan,Bowler,26000000,Mumbai Indians,2014,Indian,0,0,0,0,0,0,0,0,0,0,0,0,26000000,Overpaid
+Zaheer Khan,Bowler,40000000,Delhi Daredevils,2015,Indian,0,0,0,0,0,0,0,0,0,0,0,0,40000000,Overpaid
+Zahir Khan Pakteen,Bowler,6000000,Rajasthan Royals,2018,Indian,0,0,0,0,0,0,0,0,0,0,0,0,6000000,Overpaid
