@@ -142,7 +142,7 @@ python scripts/auction_analysis.py
 ```
 ---
 
-### 🔮 Future Improvements
+# 🔮 Future Improvements
 
 - Add role-based valuation models
 - Include previous-season performance analysis
@@ -151,7 +151,7 @@ python scripts/auction_analysis.py
   
 ---  
 
-### 📚 Learning Outcomes
+# 📚 Learning Outcomes
 
 - Learned how to clean and transform messy real-world sports datasets using Excel, Pandas, and NumPy  
 - Built player performance metrics from raw ball-by-ball IPL data using Python  
