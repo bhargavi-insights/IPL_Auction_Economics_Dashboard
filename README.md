@@ -132,14 +132,17 @@ git clone <repository-link>
 ```bash
 pip install pandas numpy
 ```
+---
+
 ### ▶️ Run Python Scripts
 
 ```bash
 python scripts/player_stats_creation.py
 python scripts/auction_analysis.py
 ```
+---
 
-### 🔮 Future Improvements
+# 🔮 Future Improvements
 
 - Add role-based valuation models
 - Include previous-season performance analysis
@@ -148,7 +151,7 @@ python scripts/auction_analysis.py
   
 ---  
 
-### 📚 Learning Outcomes
+# 📚 Learning Outcomes
 
 - Learned how to clean and transform messy real-world sports datasets using Excel, Pandas, and NumPy  
 - Built player performance metrics from raw ball-by-ball IPL data using Python  
@@ -159,6 +162,24 @@ python scripts/auction_analysis.py
 - Practiced converting raw data into business insights and visual storytelling
 
 ---  
+
+# 👩‍💻 Author
+
+**Bhargavi Tare**
+
+GitHub: [https://github.com/bhargavi-insights](https://github.com/bhargavi-insights)
+
+---
+
+
+## ⭐ Support
+
+If you like this project:
+
+- ⭐ Star the repo
+- 🚀 Share it
+
+---
   
 
 
