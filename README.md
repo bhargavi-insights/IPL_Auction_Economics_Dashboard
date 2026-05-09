@@ -103,7 +103,7 @@ Interactive Power BI Dashboard
 ---
 
 # 📁 Folder Structure
-
+```bash
 IPL-Auction-Economics-Dashboard  
 │  
 ├── 📂 data  
@@ -115,7 +115,7 @@ IPL-Auction-Economics-Dashboard
 ├── 📂 dashboard  
 │  
 └── 📄 README.md
-
+```
 ---
 
 # ▶️ How To Run
